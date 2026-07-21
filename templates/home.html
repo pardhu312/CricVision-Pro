@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CricVision Pro</title>
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta name="description"
+            content="CricVision Pro is a cricket analytics platform built using Flask, Python, Pandas and Plotly. Analyze player performance, team statistics, venue records, bowling and batting insights through interactive dashboards.">
+
+        <meta name="author"
+            content="Kurella Pardhu">
+        <meta name="keywords"
+            content="Cricket Analytics, ODI Statistics, Flask Project, Python Dashboard, Pandas, Plotly, CricVision Pro, Cricket Data Analysis">        
+        <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
+    </head>
+    <body id="main">
+        <nav class="navbar">
+
+            <h1 id="title">🏏 CricVision Pro</h1>
+
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="{{url_for('players')}}">Players</a></li>
+                <li><a href="{{url_for('dashboard')}}">Dashborad</a></li>
+                <li><a href="{{url_for('about')}}">About</a></li>
+            </ul>
+
+        </nav>
+        <section class="hero">
+            <div class="hero-content">
+            <div class="hero-text">
+                <h1>🏏 CricVision Pro</h1>
+                <h3>Welcome to the World's Best Cricket Analytics Platform</h3>
+                <p><strong>ODI Cricket Analysis (2021 - June 2026)</strong></p>
+                Analyze players, compare teams,
+                explore match statistics and discover
+                powerful cricket insights.
+                </p>
+                <a href="{{url_for('players')}}"><button>Explore Players</button></a>
+
+            </div>
+            <div class="hero-image">
+                <img src="{{url_for('static',filename='images/cricket.png')}}" alt="Cricket">
+            </div>
+            </div>
+                        
+        </section>
+        <hr>
+        <section class="stats">
+
+            <div class="stats-card">
+                <h1>👤</h1>
+                <h2>{{player|length}}</h2>
+                <p>Players</p>
+            </div>
+            <div class="stats-card">
+                <h1>🏏</h1>
+                <h2>{{match|length}}</h2>
+                <p>Matches</p>
+            </div> 
+            <div class="stats-card">
+                <h1>👥</h1>
+                <h2>{{opponents|length}}</h2>
+                <p>Teams</p>
+            </div>    
+        </section>        
+        <section class="featured-players">
+                <h2>⭐ Featured Players</h2>
+                <div class="players-info">
+                    {%  for player in players %}
+                    <div class="player-content">  
+                        <img src="{{url_for('static',filename='images/'+player.Image)}}" alt={{player.Player}}>
+                        <h3>{{player.Player}}</h3>
+                        <p><strong>Role:</strong>{{player.Role}}</p>
+                        <p><strong>Handed:</strong>{{player.Handed}}</p>
+                        <p><strong>Playing Style:</strong>{{player["Playing Style"]}}</p>
+                        <a href="{{url_for('players_profile',player_name=player.Player)}}"><button>View Profile</button></a>     
+                    </div>
+                    {% endfor %}
+                </div>                     
+        </section>
+        <hr>
+        <footer>
+            🏏 CricVision Pro  Built with Flask + HTML + CSS @ 2026 All Rights Reserved
+        </footer>
+    </body>
+</html>

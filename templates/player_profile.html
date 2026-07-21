@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Player Profile</title>
+        <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+    </head>
+    <body id="main">
+        <section class="player-details">
+            <div class="player-information">
+                <h2>{{player.Player}}</h2>
+                <p><strong>Role:</strong>{{player.Role}}</p>
+                <p><strong>Handed:</strong>{{player.Handed}}</p>
+                <p><strong>Batting Role:</strong>{{player["Batting Role"]}}</p>
+                <p><strong>Bowling Type:</strong>{{player["Bowling Type"]}}</p>
+                <p><strong>Playing Style:</strong>{{player["Playing Style"]}}</p>
+                <p><strong>DOB:</strong>{{player.DOB}}</p>
+                <p><strong>ODI Status:</strong>{{player["ODI Status"]}}</p>
+                <p><Strong>No of POTMs:</Strong>{{player.Player_of_match}}</p>
+            </div>
+            {% if batting_stats %}
+            <div class="player-batting">
+                <p><strong>No of Innings: </strong>{{batting_stats.No_of_Innings_bat}}</p>
+                <p><strong>Runs: </strong>{{batting_stats.Runs}}</p>
+                <p><strong>Strike Rate: </strong>{{batting_stats.strike_rate}}</p>
+                <p><strong>Avg: </strong>{{batting_stats.Batting_Avg}}</p>
+                <p><strong>Fours: </strong>{{batting_stats.Fours}}</p>
+                <p><strong>Sixs: </strong>{{batting_stats.Sixs}}</p>
+                <p><strong>No_of_NotOuts: </strong>{{batting_stats.No_of_NotOuts}}</p>
+                <p><strong>100s: </strong>{{batting_stats.Hundreds}}</p>
+                <p><strong>50s: </strong>{{batting_stats.Fifties}}</p>
+            </div>
+            {% endif %}
+            {% if bowling_stats %}
+            <div class="player-bowling">
+                <p><strong>No of Innings: </strong>{{bowling_stats.No_of_Innings_ball}}</p>
+                <p><strong>Wickets: </strong>{{bowling_stats.Wickets}}</p>
+                <p><strong>Economy: </strong>{{bowling_stats.Economy}}</p>
+                <p><strong>Maidens: </strong>{{bowling_stats.Maidens}}</p>
+                <p><strong>Five_Wts: </strong>{{bowling_stats.Five_Wts}}</p>
+                <p><strong>Average: </strong>{{bowling_stats.Bowling_Avg}}</p>
+            </div>
+            {% endif %}
+            <div class="player-pic">
+               <img src="{{url_for('static', filename='images/'+player.Image)}}" alt={{player.Player}}>
+            </div>
+            </section>
+            <section class="graph-section">
+                {% if graph_runs %}
+                <div class="graph-runs">
+                    {{graph_runs|safe}}
+                </div>
+                {% endif %}
+                {% if graph_wickets %}
+                <div class="graph-wickets">
+                    {{graph_wickets|safe}}
+                </div>
+                {% endif %}
+                {% if bar_graph %}
+                <div class="runs-graph">    
+                    {{bar_graph|safe}}
+                </div>
+                <div class="avg-graph">    
+                    {{avg_graph|safe}}
+                </div>
+                {% endif %}
+                {% if bar_graph2 %}
+                <div class="wickets-graph">
+                    {{bar_graph2|safe}}
+                </div>
+                {% endif %}
+            </section>
+        <hr>
+        <a href="{{url_for('players')}}"  class="Back"><button>⬅️ Back</button></a>
+    </body>
+</html>

@@ -1,0 +1,302 @@
+/*----------------------------------------------------------Home-page----------------------------------------------*/
+/*----------------------------------------------------------navbar-section-----------------------------------------*/
+.navbar{
+    display: flex;
+    justify-content:flex-start;
+    align-items:center;
+    background-color: #429746;
+    padding: 20px 30px;
+}
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 100px;
+}
+.nav-links a{    
+    color:white;
+    text-decoration:none;
+    font-weight: bold;
+}
+.hero{
+    text-align: center;
+    padding: 80px,20px;
+    font-size: 50px;
+    color: #2E7D32;
+}
+.hero p{
+    font-size: 20px;
+    color: gray;
+
+}
+.hero-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero-image img{
+    width: 400px;
+    border-radius: 20px;
+    justify-self: center;
+    justify-content: center;
+    justify-items: center;
+
+}
+
+.hero button{
+    background-color: #2E7D32;
+    color: white;
+    border: none;
+    padding: 15px,30px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: 0.3s;
+}
+.hero button:hover{
+    background: #1B5E20;
+    transform: translateY(-4px);
+}
+/*-----------------------------------featured-players-------------------------*/
+.featured-players{
+    border: 2px solid black;
+    padding: 25px;
+    margin: 25px;
+    background-color:lightblue;
+    border-radius: 25px;
+    box-shadow: 0px 10px 50px rgb(75, 74, 107);
+    transition: 0.3s;
+}
+.featured-players:hover{
+    transform: translateY(-8px);
+    box-shadow: 0px 10px 50px rgb(0,0,0,0.25);
+}
+.players-info{
+    display: flex;   
+    align-items: center;
+    height: 420px;
+    border: 2px solid rgb(223, 96, 96);
+    border-radius: 20px;
+    justify-content:center;
+    gap: 100px;
+    flex-wrap: wrap;
+}
+.player-content{
+    width: 300px;
+    text-align:flex-start;
+}
+.player-content img{
+    width: 300px;
+    height: 220px;
+    border-radius: 50%;
+}
+
+.player-content button{
+    margin-left: 100px;
+    background-color:#9ECFD4;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    transition: 0.3s;
+    border: none;
+    border-radius: 8px;    
+}
+.player-content button:hover{
+    transform: translateY(-4px);
+    background-color: #3B7597;
+}
+.stats{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 60px;
+}
+.stats-card{
+    background:#ffffff;
+    width: 220px;
+    padding: 25px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0px 5px 15px rgb(0,0,0,0.25);
+    transition: 0.3s;
+}
+.stats-card:hover{
+    transform:translateY(-8px);
+    box-shadow: 0px 5px 15px rgb(0,0,0,0.25);
+}
+.stats-card h2{
+    color: #2E7D32;
+    font-size: 40px;
+
+}
+/*---------------------------------------------------players-profile----------------------------------------------------------*/
+.player-details{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    align-items: center;
+    justify-content:space-evenly;
+    margin: 20px;
+    gap: 10px;
+}
+@media (max-width: 768px) {
+        .players-details{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+.player-information,.player-batting,.player-bowling{
+    text-align: flex-start;
+    padding-left:10px;
+    background-color:lightblue;
+    border-radius: 18px;
+    border-color: black;
+    color: #1f2937;
+    box-shadow: 0px 10px 50px rgb(0,0,0,0.25);
+    width: 300px;
+    height: 350px;
+    transition: 0.3s;
+    box-shadow: gray;
+}
+.player-information:hover,.player-batting:hover,.player-bowling:hover{
+    transform: translateY(-2px);
+    box-shadow: 0px 10px 50px rgb(0,0,0,0.25);
+}
+
+.player-pic img{
+    background-color:lightblue;
+    border-radius: 50%;
+    margin: 20px;
+    color: rgb(4, 49, 49);
+    height: 220px;
+    width: 300px;
+    box-shadow: 0px 10px 50px gray;
+}
+#main {
+    background:#D0E7E6;
+    color:#1f2937;
+}
+.Back button{
+    margin-left :650px;
+    border-radius:5px;
+    border: none;
+    font-size: 20px;
+    background-color:#2e7d32;
+    color: black;
+    transition: 0.3s;
+}
+.Back button:hover{
+    transform: translate(-4px);
+    background-color: rgb(142, 226, 46);
+}
+/*--------------------------------------------All-players-profile---------------------------------*/
+.all-indian-players h2{
+    color: #0C2C55;
+    text-align: center;
+}
+#search{
+    width: 400px;
+    margin-left: 500px;
+    border-radius: 5px;
+}
+.players-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+@media (max-width: 768px){
+    .players-container{
+        grid-template-columns: 1fr;
+    }
+}
+.all-players{
+    display: flex;
+    background-color:white;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+    transition: 0.3s;
+    box-shadow: gray;
+}
+.all-players:hover{
+    transform: translateY(-4px);
+    box-shadow: 0px 10px 50px rgb(0,0,0,0.25);
+}
+.players img{
+    background-color:lightblue;
+    border-radius: 50%;
+    margin: 20px;
+    color: rgb(4, 49, 49);
+    height: 220px;
+    width: 300px;
+    box-shadow: gray;   
+    transition: 0.3s; 
+}
+.players img{
+    transform: translateY(-4px);
+    box-shadow:0px 10px 50px rgb(0,0,0,0.25) ;    
+}
+
+.view{
+    text-align:left;
+    padding-left: 50px;
+}
+.view button{
+    border-radius:5px;
+    border: none;
+    font-size: 20px;
+    color:white;
+    background-color:#9ECFD4;
+    transition: 0.3s;
+}
+.view button:hover{
+    transform: translate(-4px);
+    background-color:#D78FEE;
+}
+/*----------------------------------------------------dashboard-----------------------------------------------*/
+.dashboard h1{
+    text-align: center;
+    color:#0C2C55;
+}
+.overview{
+    display: flex;
+    padding: 10px 10px 10px 10px ;
+    gap: 100px;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+
+
+.top-batter,.top-bowler ,.top-all_rounder{
+    margin: 30px;
+    padding: 10px 10px 10px 30px;
+    border:  2px solid white;
+    border-radius: 12px;
+    background-color:#95CCDD;
+    width: 300px;
+    font-size: 18px;
+    box-shadow: gray;
+    transition: 0.3s;
+    color:#0C2C55;
+}
+.top-batter:hover,.top-bowler:hover,.top-all_rounder:hover{
+    transform: translateY(-4px);
+    box-shadow:0px 10px 50px rgb(0,0,0,0.25);    
+}
+.graph-section h2{
+    text-align: center;
+    font-size:32px;
+    color:#1f2937;    
+}
+/*-----------------------------------------all_graphs---------------------------------------------------*/
+.graph-runs,.graph-wickets,.top-runs-graph,.top-wickets-graph,.pie-chart,.wins-graph,.venue-wins,.avg-graph{
+    background:#6EADBC;
+    padding:10px;
+    border-radius:20px;
+    box-shadow:grey;
+    width: 1400px;
+    margin:50px;   
+    transition: 0.3s; 
+    justify-self: center;
+    justify-items: center;
+
+}
+.graph-runs:hover,.graph-wickets:hover,.top-runs-graph:hover,.top-wickets-graph:hover,.pie-chart:hover,.wins-graph:hover,.venue-wins:hover,.avg-graph:hover{
+    transform: translateY(-4px);
+    box-shadow:0px 10px 50px rgb(0,0,0,0.25);
+}

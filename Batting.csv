@@ -1,0 +1,749 @@
+Player,Runs,Balls,Fours,Sixs,Dots,strike_rate,status,Date,Venue,City,Result,Match_ID,Event,Toss_Winner,Player_of_match,Opponent
+HH Pandya,1,9,0,0,8,11.11111111111111,caught,2021-03-23,Maharashtra Cricket Association Stadium,Pune,Won,4281,England tour of India,England,S Dhawan,England
+KH Pandya,58,33,7,2,8,175.75757575757575,Not Out,2021-03-23,Maharashtra Cricket Association Stadium,Pune,Won,4281,England tour of India,England,S Dhawan,England
+KL Rahul,62,44,4,4,17,140.9090909090909,Not Out,2021-03-23,Maharashtra Cricket Association Stadium,Pune,Won,4281,England tour of India,England,S Dhawan,England
+RG Sharma,28,42,4,0,26,66.66666666666666,caught,2021-03-23,Maharashtra Cricket Association Stadium,Pune,Won,4281,England tour of India,England,S Dhawan,England
+S Dhawan,98,107,11,2,55,91.58878504672897,caught,2021-03-23,Maharashtra Cricket Association Stadium,Pune,Won,4281,England tour of India,England,S Dhawan,England
+SS Iyer,6,9,1,0,6,66.66666666666666,caught,2021-03-23,Maharashtra Cricket Association Stadium,Pune,Won,4281,England tour of India,England,S Dhawan,England
+V Kohli,56,60,6,0,24,93.33333333333333,caught,2021-03-23,Maharashtra Cricket Association Stadium,Pune,Won,4281,England tour of India,England,S Dhawan,England
+HH Pandya,35,16,1,4,4,218.75,caught,2021-03-26,Maharashtra Cricket Association Stadium,Pune,Lost,4283,England tour of India,England,JM Bairstow,England
+KH Pandya,12,10,1,0,2,120.0,Not Out,2021-03-26,Maharashtra Cricket Association Stadium,Pune,Lost,4283,England tour of India,England,JM Bairstow,England
+KL Rahul,108,114,7,2,40,94.73684210526315,caught,2021-03-26,Maharashtra Cricket Association Stadium,Pune,Lost,4283,England tour of India,England,JM Bairstow,England
+RG Sharma,25,25,5,0,15,100.0,caught,2021-03-26,Maharashtra Cricket Association Stadium,Pune,Lost,4283,England tour of India,England,JM Bairstow,England
+RR Pant,77,43,3,7,11,179.06976744186048,caught,2021-03-26,Maharashtra Cricket Association Stadium,Pune,Lost,4283,England tour of India,England,JM Bairstow,England
+S Dhawan,4,17,0,0,15,23.52941176470588,Not Out,2021-03-26,Maharashtra Cricket Association Stadium,Pune,Lost,4283,England tour of India,England,JM Bairstow,England
+V Kohli,66,80,3,1,33,82.5,caught,2021-03-26,Maharashtra Cricket Association Stadium,Pune,Lost,4283,England tour of India,England,JM Bairstow,England
+B Kumar,3,5,0,0,2,60.0,caught,2021-03-28,Maharashtra Cricket Association Stadium,Pune,Won,4284,England tour of India,England,SM Curran,England
+HH Pandya,64,45,5,4,18,142.22222222222223,bowled,2021-03-28,Maharashtra Cricket Association Stadium,Pune,Won,4284,England tour of India,England,SM Curran,England
+KH Pandya,25,34,0,0,14,73.52941176470588,caught,2021-03-28,Maharashtra Cricket Association Stadium,Pune,Won,4284,England tour of India,England,SM Curran,England
+KL Rahul,7,18,0,0,11,38.88888888888889,caught,2021-03-28,Maharashtra Cricket Association Stadium,Pune,Won,4284,England tour of India,England,SM Curran,England
+M Prasidh Krishna,0,3,0,0,3,0.0,bowled,2021-03-28,Maharashtra Cricket Association Stadium,Pune,Won,4284,England tour of India,England,SM Curran,England
+RG Sharma,37,38,6,0,19,97.36842105263158,bowled,2021-03-28,Maharashtra Cricket Association Stadium,Pune,Won,4284,England tour of India,England,SM Curran,England
+RR Pant,78,63,5,4,24,123.80952380952381,caught,2021-03-28,Maharashtra Cricket Association Stadium,Pune,Won,4284,England tour of India,England,SM Curran,England
+S Dhawan,67,56,10,0,24,119.64285714285714,caught and bowled,2021-03-28,Maharashtra Cricket Association Stadium,Pune,Won,4284,England tour of India,England,SM Curran,England
+SN Thakur,30,21,1,3,9,142.85714285714286,caught,2021-03-28,Maharashtra Cricket Association Stadium,Pune,Won,4284,England tour of India,England,SM Curran,England
+V Kohli,7,10,1,0,6,70.0,bowled,2021-03-28,Maharashtra Cricket Association Stadium,Pune,Won,4284,England tour of India,England,SM Curran,England
+Ishan Kishan,59,43,8,2,20,137.2093023255814,caught,2021-07-18,"R Premadasa Stadium, Colombo",Colombo,Won,4307,India tour of Sri Lanka,Sri Lanka,PP Shaw,Sri Lanka
+MK Pandey,26,41,1,1,23,63.41463414634146,caught,2021-07-18,"R Premadasa Stadium, Colombo",Colombo,Won,4307,India tour of Sri Lanka,Sri Lanka,PP Shaw,Sri Lanka
+PP Shaw,43,26,9,0,13,165.3846153846154,caught,2021-07-18,"R Premadasa Stadium, Colombo",Colombo,Won,4307,India tour of Sri Lanka,Sri Lanka,PP Shaw,Sri Lanka
+S Dhawan,86,99,6,1,43,86.86868686868688,Not Out,2021-07-18,"R Premadasa Stadium, Colombo",Colombo,Won,4307,India tour of Sri Lanka,Sri Lanka,PP Shaw,Sri Lanka
+SA Yadav,31,21,5,0,6,147.61904761904762,Not Out,2021-07-18,"R Premadasa Stadium, Colombo",Colombo,Won,4307,India tour of Sri Lanka,Sri Lanka,PP Shaw,Sri Lanka
+B Kumar,19,28,2,0,15,67.85714285714286,Not Out,2021-07-20,"R Premadasa Stadium, Colombo",Colombo,Won,4309,India tour of Sri Lanka,Sri Lanka,DL Chahar,Sri Lanka
+DL Chahar,69,85,7,1,50,81.17647058823529,Not Out,2021-07-20,"R Premadasa Stadium, Colombo",Colombo,Won,4309,India tour of Sri Lanka,Sri Lanka,DL Chahar,Sri Lanka
+HH Pandya,0,3,0,0,3,0.0,caught,2021-07-20,"R Premadasa Stadium, Colombo",Colombo,Won,4309,India tour of Sri Lanka,Sri Lanka,DL Chahar,Sri Lanka
+Ishan Kishan,1,4,0,0,3,25.0,bowled,2021-07-20,"R Premadasa Stadium, Colombo",Colombo,Won,4309,India tour of Sri Lanka,Sri Lanka,DL Chahar,Sri Lanka
+KH Pandya,35,54,3,0,31,64.81481481481481,bowled,2021-07-20,"R Premadasa Stadium, Colombo",Colombo,Won,4309,India tour of Sri Lanka,Sri Lanka,DL Chahar,Sri Lanka
+MK Pandey,37,32,3,0,10,115.625,run out,2021-07-20,"R Premadasa Stadium, Colombo",Colombo,Won,4309,India tour of Sri Lanka,Sri Lanka,DL Chahar,Sri Lanka
+PP Shaw,13,11,3,0,7,118.18181818181819,bowled,2021-07-20,"R Premadasa Stadium, Colombo",Colombo,Won,4309,India tour of Sri Lanka,Sri Lanka,DL Chahar,Sri Lanka
+S Dhawan,29,38,6,0,27,76.31578947368422,lbw,2021-07-20,"R Premadasa Stadium, Colombo",Colombo,Won,4309,India tour of Sri Lanka,Sri Lanka,DL Chahar,Sri Lanka
+SA Yadav,53,45,6,0,19,117.77777777777779,lbw,2021-07-20,"R Premadasa Stadium, Colombo",Colombo,Won,4309,India tour of Sri Lanka,Sri Lanka,DL Chahar,Sri Lanka
+C Sakariya,0,1,0,0,1,0.0,Not Out,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+HH Pandya,19,17,3,0,8,111.76470588235294,lbw,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+K Gowtham,2,3,0,0,1,66.66666666666666,lbw,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+MK Pandey,11,19,0,0,9,57.89473684210527,caught,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+N Rana,7,14,0,0,7,50.0,caught,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+Navdeep Saini,15,37,0,0,26,40.54054054054054,caught,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+PP Shaw,49,49,8,0,26,100.0,lbw,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+RD Chahar,13,25,0,0,14,52.0,caught and bowled,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+S Dhawan,13,11,3,0,7,118.18181818181819,caught,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+SA Yadav,40,37,7,0,19,108.10810810810811,lbw,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+SV Samson,46,46,5,1,23,100.0,caught,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Lost,4312,India tour of Sri Lanka,India,WIA Fernando,Sri Lanka
+RG Sharma,76,59,7,5,34,128.81355932203388,Not Out,2022-07-12,"Kennington Oval, London",London,Won,4424,India tour of England,India,JJ Bumrah,England
+S Dhawan,31,56,4,0,40,55.35714285714286,Not Out,2022-07-12,"Kennington Oval, London",London,Won,4424,India tour of England,India,JJ Bumrah,England
+HH Pandya,29,44,2,0,23,65.9090909090909,caught,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+JJ Bumrah,2,6,0,0,4,33.33333333333333,Not Out,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+M Prasidh Krishna,0,3,0,0,3,0.0,caught,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+Mohammed Shami,23,28,2,1,17,82.14285714285714,caught,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+RA Jadeja,29,44,1,1,24,65.9090909090909,bowled,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+RG Sharma,0,10,0,0,10,0.0,lbw,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+RR Pant,0,5,0,0,5,0.0,caught,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+S Dhawan,9,26,1,0,21,34.61538461538461,caught,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+SA Yadav,27,29,1,1,13,93.10344827586206,bowled,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+V Kohli,16,25,3,0,18,64.0,caught,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+YS Chahal,3,13,0,0,11,23.076923076923077,bowled,2022-07-14,"Lord's, London",London,Lost,4428,India tour of England,India,RJW Topley,England
+HH Pandya,71,56,10,0,20,126.78571428571428,caught,2022-07-17,"Old Trafford, Manchester",Manchester,Won,4433,India tour of England,India,RR Pant,England
+RA Jadeja,7,15,0,0,8,46.666666666666664,Not Out,2022-07-17,"Old Trafford, Manchester",Manchester,Won,4433,India tour of England,India,RR Pant,England
+RG Sharma,17,17,4,0,12,100.0,caught,2022-07-17,"Old Trafford, Manchester",Manchester,Won,4433,India tour of England,India,RR Pant,England
+RR Pant,125,113,16,2,50,110.61946902654867,Not Out,2022-07-17,"Old Trafford, Manchester",Manchester,Won,4433,India tour of England,India,RR Pant,England
+S Dhawan,1,3,0,0,2,33.33333333333333,caught,2022-07-17,"Old Trafford, Manchester",Manchester,Won,4433,India tour of England,India,RR Pant,England
+SA Yadav,16,28,1,0,17,57.14285714285714,caught,2022-07-17,"Old Trafford, Manchester",Manchester,Won,4433,India tour of England,India,RR Pant,England
+V Kohli,17,22,3,0,14,77.27272727272727,caught,2022-07-17,"Old Trafford, Manchester",Manchester,Won,4433,India tour of England,India,RR Pant,England
+B Kumar,4,12,0,0,8,33.33333333333333,caught,2022-01-19,"Boland Park, Paarl",Paarl,Lost,4344,India tour of South Africa,South Africa,HE van der Dussen,South Africa
+JJ Bumrah,14,24,1,0,14,58.333333333333336,Not Out,2022-01-19,"Boland Park, Paarl",Paarl,Lost,4344,India tour of South Africa,South Africa,HE van der Dussen,South Africa
+KL Rahul,12,17,0,0,8,70.58823529411765,caught,2022-01-19,"Boland Park, Paarl",Paarl,Lost,4344,India tour of South Africa,South Africa,HE van der Dussen,South Africa
+R Ashwin,7,13,0,0,6,53.84615384615385,bowled,2022-01-19,"Boland Park, Paarl",Paarl,Lost,4344,India tour of South Africa,South Africa,HE van der Dussen,South Africa
+RR Pant,16,23,1,0,10,69.56521739130434,stumped,2022-01-19,"Boland Park, Paarl",Paarl,Lost,4344,India tour of South Africa,South Africa,HE van der Dussen,South Africa
+S Dhawan,79,85,10,0,42,92.94117647058823,bowled,2022-01-19,"Boland Park, Paarl",Paarl,Lost,4344,India tour of South Africa,South Africa,HE van der Dussen,South Africa
+SN Thakur,50,44,5,1,17,113.63636363636364,Not Out,2022-01-19,"Boland Park, Paarl",Paarl,Lost,4344,India tour of South Africa,South Africa,HE van der Dussen,South Africa
+SS Iyer,17,17,1,0,4,100.0,caught,2022-01-19,"Boland Park, Paarl",Paarl,Lost,4344,India tour of South Africa,South Africa,HE van der Dussen,South Africa
+V Kohli,51,67,3,0,29,76.11940298507463,caught,2022-01-19,"Boland Park, Paarl",Paarl,Lost,4344,India tour of South Africa,South Africa,HE van der Dussen,South Africa
+VR Iyer,2,7,0,0,5,28.57142857142857,caught,2022-01-19,"Boland Park, Paarl",Paarl,Lost,4344,India tour of South Africa,South Africa,HE van der Dussen,South Africa
+KL Rahul,55,80,4,0,38,68.75,caught,2022-01-21,"Boland Park, Paarl",Paarl,Lost,4346,India tour of South Africa,India,Q de Kock,South Africa
+R Ashwin,25,23,1,1,10,108.69565217391303,Not Out,2022-01-21,"Boland Park, Paarl",Paarl,Lost,4346,India tour of South Africa,India,Q de Kock,South Africa
+RR Pant,85,71,10,2,29,119.71830985915493,caught,2022-01-21,"Boland Park, Paarl",Paarl,Lost,4346,India tour of South Africa,India,Q de Kock,South Africa
+S Dhawan,29,39,5,0,26,74.35897435897436,caught,2022-01-21,"Boland Park, Paarl",Paarl,Lost,4346,India tour of South Africa,India,Q de Kock,South Africa
+SN Thakur,40,38,3,1,16,105.26315789473684,Not Out,2022-01-21,"Boland Park, Paarl",Paarl,Lost,4346,India tour of South Africa,India,Q de Kock,South Africa
+SS Iyer,11,15,0,0,4,73.33333333333333,lbw,2022-01-21,"Boland Park, Paarl",Paarl,Lost,4346,India tour of South Africa,India,Q de Kock,South Africa
+V Kohli,0,5,0,0,5,0.0,caught,2022-01-21,"Boland Park, Paarl",Paarl,Lost,4346,India tour of South Africa,India,Q de Kock,South Africa
+VR Iyer,22,34,0,1,17,64.70588235294117,stumped,2022-01-21,"Boland Park, Paarl",Paarl,Lost,4346,India tour of South Africa,India,Q de Kock,South Africa
+DL Chahar,54,36,5,2,13,150.0,caught,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+J Yadav,2,6,0,0,4,33.33333333333333,caught,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+JJ Bumrah,12,15,2,0,9,80.0,caught,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+KL Rahul,9,10,2,0,7,90.0,caught,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+M Prasidh Krishna,2,3,0,0,1,66.66666666666666,Not Out,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+RR Pant,0,1,0,0,1,0.0,caught,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+S Dhawan,61,74,5,1,39,82.43243243243244,caught,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+SA Yadav,39,32,4,1,13,121.875,caught,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+SS Iyer,26,34,2,0,14,76.47058823529412,caught,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+V Kohli,65,84,5,0,39,77.38095238095238,caught,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+YS Chahal,2,6,0,0,4,33.33333333333333,caught,2022-01-23,"Newlands, Cape Town",Cape Town,Lost,4349,India tour of South Africa,India,Q de Kock,South Africa
+DJ Hooda,26,33,2,0,16,78.78787878787878,Not Out,2022-02-06,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4353,West Indies tour of India,India,YS Chahal,West Indies
+Ishan Kishan,28,36,2,1,22,77.77777777777779,caught,2022-02-06,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4353,West Indies tour of India,India,YS Chahal,West Indies
+RG Sharma,60,51,10,1,29,117.64705882352942,lbw,2022-02-06,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4353,West Indies tour of India,India,YS Chahal,West Indies
+RR Pant,11,9,2,0,4,122.22222222222223,run out,2022-02-06,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4353,West Indies tour of India,India,YS Chahal,West Indies
+SA Yadav,34,36,5,0,18,94.44444444444444,Not Out,2022-02-06,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4353,West Indies tour of India,India,YS Chahal,West Indies
+V Kohli,8,4,2,0,2,200.0,caught,2022-02-06,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4353,West Indies tour of India,India,YS Chahal,West Indies
+DJ Hooda,29,25,2,0,4,115.99999999999999,caught,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+KL Rahul,49,48,4,2,23,102.08333333333333,run out,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+M Prasidh Krishna,0,3,0,0,3,0.0,Not Out,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+Mohammed Siraj,3,5,0,0,3,60.0,caught,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+RG Sharma,5,8,0,0,4,62.5,caught,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+RR Pant,18,34,3,0,25,52.94117647058824,caught,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+SA Yadav,64,83,5,0,39,77.10843373493977,caught,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+SN Thakur,8,15,1,0,10,53.333333333333336,caught,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+V Kohli,18,30,3,0,21,60.0,caught,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+Washington Sundar,24,41,1,0,22,58.536585365853654,caught,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+YS Chahal,11,10,1,0,4,110.00000000000001,Not Out,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4355,West Indies tour of India,West Indies,M Prasidh Krishna,West Indies
+DL Chahar,38,39,4,2,25,97.43589743589743,caught,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4356,West Indies tour of India,India,SS Iyer,West Indies
+Kuldeep Yadav,5,8,0,0,4,62.5,caught,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4356,West Indies tour of India,India,SS Iyer,West Indies
+Mohammed Siraj,4,6,1,0,5,66.66666666666666,bowled,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4356,West Indies tour of India,India,SS Iyer,West Indies
+RG Sharma,13,16,3,0,12,81.25,bowled,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4356,West Indies tour of India,India,SS Iyer,West Indies
+RR Pant,56,55,6,1,24,101.81818181818181,caught,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4356,West Indies tour of India,India,SS Iyer,West Indies
+S Dhawan,10,27,0,1,22,37.03703703703704,Not Out,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4356,West Indies tour of India,India,SS Iyer,West Indies
+SA Yadav,6,7,1,0,4,85.71428571428571,caught,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4356,West Indies tour of India,India,SS Iyer,West Indies
+SS Iyer,80,113,9,0,67,70.79646017699115,caught,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4356,West Indies tour of India,India,SS Iyer,West Indies
+V Kohli,0,2,0,0,2,0.0,caught,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4356,West Indies tour of India,India,SS Iyer,West Indies
+Washington Sundar,33,34,2,1,13,97.05882352941177,caught,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4356,West Indies tour of India,India,SS Iyer,West Indies
+AR Patel,21,22,1,1,9,95.45454545454545,bowled,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4436,India tour of West Indies,West Indies,S Dhawan,West Indies
+DJ Hooda,27,33,1,1,15,81.81818181818183,bowled,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4436,India tour of West Indies,West Indies,S Dhawan,West Indies
+Mohammed Siraj,1,2,0,0,1,50.0,Not Out,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4436,India tour of West Indies,West Indies,S Dhawan,West Indies
+S Dhawan,97,99,10,3,47,97.97979797979798,caught,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4436,India tour of West Indies,West Indies,S Dhawan,West Indies
+SA Yadav,13,15,2,0,8,86.66666666666667,bowled,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4436,India tour of West Indies,West Indies,S Dhawan,West Indies
+SN Thakur,7,5,1,0,1,140.0,Not Out,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4436,India tour of West Indies,West Indies,S Dhawan,West Indies
+SS Iyer,54,58,5,2,32,93.10344827586206,caught,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4436,India tour of West Indies,West Indies,S Dhawan,West Indies
+SV Samson,12,18,0,1,11,66.66666666666666,lbw,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4436,India tour of West Indies,West Indies,S Dhawan,West Indies
+Shubman Gill,64,54,6,2,26,118.5185185185185,run out,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4436,India tour of West Indies,West Indies,S Dhawan,West Indies
+AR Patel,64,35,3,5,5,182.85714285714286,Not Out,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4438,India tour of West Indies,West Indies,AR Patel,West Indies
+Avesh Khan,10,13,2,0,9,76.92307692307693,caught,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4438,India tour of West Indies,West Indies,AR Patel,West Indies
+DJ Hooda,33,36,2,0,12,91.66666666666666,caught,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4438,India tour of West Indies,West Indies,AR Patel,West Indies
+Mohammed Siraj,1,1,0,0,0,100.0,Not Out,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4438,India tour of West Indies,West Indies,AR Patel,West Indies
+S Dhawan,13,31,0,0,20,41.935483870967744,caught,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4438,India tour of West Indies,West Indies,AR Patel,West Indies
+SA Yadav,9,8,0,1,4,112.5,Not Out,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4438,India tour of West Indies,West Indies,AR Patel,West Indies
+SN Thakur,3,5,0,0,2,60.0,caught,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4438,India tour of West Indies,West Indies,AR Patel,West Indies
+SS Iyer,63,71,4,1,30,88.73239436619718,lbw,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4438,India tour of West Indies,West Indies,AR Patel,West Indies
+SV Samson,54,51,3,3,21,105.88235294117648,run out,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4438,India tour of West Indies,West Indies,AR Patel,West Indies
+Shubman Gill,43,49,5,0,26,87.75510204081633,caught and bowled,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4438,India tour of West Indies,West Indies,AR Patel,West Indies
+S Dhawan,58,74,7,0,38,78.37837837837837,caught,2022-07-27,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4439,India tour of West Indies,India,Shubman Gill,West Indies
+SA Yadav,8,6,1,0,2,133.33333333333331,caught,2022-07-27,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4439,India tour of West Indies,India,Shubman Gill,West Indies
+SS Iyer,44,36,4,1,14,122.22222222222223,caught,2022-07-27,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4439,India tour of West Indies,India,Shubman Gill,West Indies
+SV Samson,6,7,0,0,1,85.71428571428571,Not Out,2022-07-27,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4439,India tour of West Indies,India,Shubman Gill,West Indies
+Shubman Gill,98,101,7,2,40,97.02970297029702,Not Out,2022-07-27,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,Won,4439,India tour of West Indies,India,Shubman Gill,West Indies
+RR Pant,15,23,2,0,14,65.21739130434783,bowled,2022-11-25,"Eden Park, Auckland",Auckland,Lost,4483,India tour of New Zealand,New Zealand,TWM Latham,New Zealand
+S Dhawan,72,78,13,0,47,92.3076923076923,caught,2022-11-25,"Eden Park, Auckland",Auckland,Lost,4483,India tour of New Zealand,New Zealand,TWM Latham,New Zealand
+SA Yadav,4,3,1,0,2,133.33333333333331,caught,2022-11-25,"Eden Park, Auckland",Auckland,Lost,4483,India tour of New Zealand,New Zealand,TWM Latham,New Zealand
+SN Thakur,1,2,0,0,1,50.0,caught,2022-11-25,"Eden Park, Auckland",Auckland,Lost,4483,India tour of New Zealand,New Zealand,TWM Latham,New Zealand
+SS Iyer,80,78,4,4,37,102.56410256410255,caught,2022-11-25,"Eden Park, Auckland",Auckland,Lost,4483,India tour of New Zealand,New Zealand,TWM Latham,New Zealand
+SV Samson,36,39,4,0,16,92.3076923076923,Not Out,2022-11-25,"Eden Park, Auckland",Auckland,Lost,4483,India tour of New Zealand,New Zealand,TWM Latham,New Zealand
+Shubman Gill,50,65,1,3,38,76.92307692307693,caught,2022-11-25,"Eden Park, Auckland",Auckland,Lost,4483,India tour of New Zealand,New Zealand,TWM Latham,New Zealand
+Washington Sundar,37,16,3,3,3,231.25,Not Out,2022-11-25,"Eden Park, Auckland",Auckland,Lost,4483,India tour of New Zealand,New Zealand,TWM Latham,New Zealand
+S Dhawan,3,10,0,0,7,30.0,caught,2022-11-27,"Seddon Park, Hamilton",Hamilton,no result,4487,India tour of New Zealand,New Zealand,,New Zealand
+SA Yadav,34,26,2,3,13,130.76923076923077,Not Out,2022-11-27,"Seddon Park, Hamilton",Hamilton,no result,4487,India tour of New Zealand,New Zealand,,New Zealand
+Shubman Gill,45,42,4,1,17,107.14285714285714,Not Out,2022-11-27,"Seddon Park, Hamilton",Hamilton,no result,4487,India tour of New Zealand,New Zealand,,New Zealand
+Arshdeep Singh,9,9,0,1,6,100.0,lbw,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+DJ Hooda,12,25,0,0,14,48.0,caught,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+DL Chahar,12,9,0,2,7,133.33333333333331,caught,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+RR Pant,10,16,2,0,12,62.5,caught,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+S Dhawan,28,45,3,1,33,62.22222222222222,bowled,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+SA Yadav,6,10,0,0,6,60.0,caught,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+SS Iyer,49,61,8,0,37,80.32786885245902,caught,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+Shubman Gill,13,22,2,0,17,59.09090909090909,caught,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+Umran Malik,0,4,0,0,4,0.0,Not Out,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+Washington Sundar,51,64,5,1,38,79.6875,caught,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+YS Chahal,8,22,0,0,18,36.36363636363637,caught,2022-11-30,"Hagley Oval, Christchurch",Christchurch,no result,4489,India tour of New Zealand,New Zealand,,New Zealand
+S Dhawan,81,116,9,0,69,69.82758620689656,Not Out,2022-08-18,Harare Sports Club,Harare,Won,4451,India tour of Zimbabwe,India,DL Chahar,Zimbabwe
+Shubman Gill,82,75,10,1,32,109.33333333333333,Not Out,2022-08-18,Harare Sports Club,Harare,Won,4451,India tour of Zimbabwe,India,DL Chahar,Zimbabwe
+AR Patel,6,7,1,0,4,85.71428571428571,Not Out,2022-08-20,Harare Sports Club,Harare,Won,4454,India tour of Zimbabwe,India,SV Samson,Zimbabwe
+DJ Hooda,25,37,3,0,24,67.56756756756756,bowled,2022-08-20,Harare Sports Club,Harare,Won,4454,India tour of Zimbabwe,India,SV Samson,Zimbabwe
+Ishan Kishan,6,15,0,0,10,40.0,bowled,2022-08-20,Harare Sports Club,Harare,Won,4454,India tour of Zimbabwe,India,SV Samson,Zimbabwe
+KL Rahul,1,5,0,0,4,20.0,lbw,2022-08-20,Harare Sports Club,Harare,Won,4454,India tour of Zimbabwe,India,SV Samson,Zimbabwe
+S Dhawan,33,23,4,0,9,143.47826086956522,caught,2022-08-20,Harare Sports Club,Harare,Won,4454,India tour of Zimbabwe,India,SV Samson,Zimbabwe
+SV Samson,43,40,3,4,26,107.5,Not Out,2022-08-20,Harare Sports Club,Harare,Won,4454,India tour of Zimbabwe,India,SV Samson,Zimbabwe
+Shubman Gill,33,35,6,0,21,94.28571428571428,caught,2022-08-20,Harare Sports Club,Harare,Won,4454,India tour of Zimbabwe,India,SV Samson,Zimbabwe
+AR Patel,1,4,0,0,3,25.0,caught,2022-08-22,Harare Sports Club,Harare,Won,4457,India tour of Zimbabwe,India,Shubman Gill,Zimbabwe
+DJ Hooda,1,3,0,0,2,33.33333333333333,bowled,2022-08-22,Harare Sports Club,Harare,Won,4457,India tour of Zimbabwe,India,Shubman Gill,Zimbabwe
+DL Chahar,1,1,0,0,0,100.0,Not Out,2022-08-22,Harare Sports Club,Harare,Won,4457,India tour of Zimbabwe,India,Shubman Gill,Zimbabwe
+Ishan Kishan,50,61,6,0,32,81.9672131147541,run out,2022-08-22,Harare Sports Club,Harare,Won,4457,India tour of Zimbabwe,India,Shubman Gill,Zimbabwe
+KL Rahul,30,48,1,1,30,62.5,bowled,2022-08-22,Harare Sports Club,Harare,Won,4457,India tour of Zimbabwe,India,Shubman Gill,Zimbabwe
+Kuldeep Yadav,2,2,0,0,1,100.0,Not Out,2022-08-22,Harare Sports Club,Harare,Won,4457,India tour of Zimbabwe,India,Shubman Gill,Zimbabwe
+S Dhawan,40,68,5,0,46,58.82352941176471,caught,2022-08-22,Harare Sports Club,Harare,Won,4457,India tour of Zimbabwe,India,Shubman Gill,Zimbabwe
+SN Thakur,9,6,2,0,3,150.0,caught,2022-08-22,Harare Sports Club,Harare,Won,4457,India tour of Zimbabwe,India,Shubman Gill,Zimbabwe
+SV Samson,15,13,0,2,8,115.38461538461537,caught,2022-08-22,Harare Sports Club,Harare,Won,4457,India tour of Zimbabwe,India,Shubman Gill,Zimbabwe
+Shubman Gill,130,100,15,1,27,130.0,caught,2022-08-22,Harare Sports Club,Harare,Won,4457,India tour of Zimbabwe,India,Shubman Gill,Zimbabwe
+Avesh Khan,3,6,0,0,4,50.0,caught,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Lost,4470,South Africa tour of India,India,H Klaasen,South Africa
+Ishan Kishan,20,38,3,0,27,52.63157894736842,caught,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Lost,4470,South Africa tour of India,India,H Klaasen,South Africa
+Kuldeep Yadav,0,1,0,0,1,0.0,caught,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Lost,4470,South Africa tour of India,India,H Klaasen,South Africa
+RD Gaikwad,19,42,1,0,29,45.23809523809524,stumped,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Lost,4470,South Africa tour of India,India,H Klaasen,South Africa
+Ravi Bishnoi,4,2,1,0,1,200.0,Not Out,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Lost,4470,South Africa tour of India,India,H Klaasen,South Africa
+S Dhawan,4,16,0,0,13,25.0,bowled,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Lost,4470,South Africa tour of India,India,H Klaasen,South Africa
+SN Thakur,33,31,5,0,13,106.4516129032258,caught,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Lost,4470,South Africa tour of India,India,H Klaasen,South Africa
+SS Iyer,50,38,8,0,18,131.57894736842107,caught,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Lost,4470,South Africa tour of India,India,H Klaasen,South Africa
+SV Samson,86,67,9,3,27,128.3582089552239,Not Out,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Lost,4470,South Africa tour of India,India,H Klaasen,South Africa
+Shubman Gill,3,7,0,0,5,42.857142857142854,bowled,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Lost,4470,South Africa tour of India,India,H Klaasen,South Africa
+Ishan Kishan,93,84,4,7,41,110.71428571428572,caught,2022-10-09,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4471,South Africa tour of India,South Africa,SS Iyer,South Africa
+S Dhawan,13,19,0,1,12,68.42105263157895,bowled,2022-10-09,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4471,South Africa tour of India,South Africa,SS Iyer,South Africa
+SS Iyer,113,112,15,0,49,100.89285714285714,Not Out,2022-10-09,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4471,South Africa tour of India,South Africa,SS Iyer,South Africa
+SV Samson,30,36,1,1,14,83.33333333333334,Not Out,2022-10-09,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4471,South Africa tour of India,South Africa,SS Iyer,South Africa
+Shubman Gill,28,27,5,0,15,103.7037037037037,caught and bowled,2022-10-09,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4471,South Africa tour of India,South Africa,SS Iyer,South Africa
+Ishan Kishan,10,18,2,0,14,55.55555555555556,caught,2022-10-11,"Arun Jaitley Stadium, Delhi",Delhi,Won,4472,South Africa tour of India,India,Kuldeep Yadav,South Africa
+S Dhawan,8,14,1,0,10,57.14285714285714,run out,2022-10-11,"Arun Jaitley Stadium, Delhi",Delhi,Won,4472,South Africa tour of India,India,Kuldeep Yadav,South Africa
+SS Iyer,28,23,3,2,15,121.73913043478262,Not Out,2022-10-11,"Arun Jaitley Stadium, Delhi",Delhi,Won,4472,South Africa tour of India,India,Kuldeep Yadav,South Africa
+SV Samson,2,4,0,0,3,50.0,Not Out,2022-10-11,"Arun Jaitley Stadium, Delhi",Delhi,Won,4472,South Africa tour of India,India,Kuldeep Yadav,South Africa
+Shubman Gill,49,57,8,0,36,85.96491228070175,lbw,2022-10-11,"Arun Jaitley Stadium, Delhi",Delhi,Won,4472,South Africa tour of India,India,Kuldeep Yadav,South Africa
+DL Chahar,0,3,0,0,3,0.0,lbw,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+KL Rahul,73,71,5,4,34,102.8169014084507,caught,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+KR Sen,2,4,0,0,2,50.0,Not Out,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+Mohammed Siraj,9,19,1,0,14,47.368421052631575,caught,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+RG Sharma,27,32,4,1,23,84.375,bowled,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+S Dhawan,7,17,1,0,13,41.17647058823529,bowled,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+SN Thakur,2,3,0,0,1,66.66666666666666,bowled,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+SS Iyer,24,40,2,0,25,60.0,caught,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+Shahbaz Ahmed,0,4,0,0,4,0.0,caught,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+V Kohli,9,15,1,0,10,60.0,caught,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+Washington Sundar,19,43,0,0,27,44.18604651162791,caught,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4493,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+AR Patel,56,57,2,3,25,98.24561403508771,caught,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4496,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+DL Chahar,11,18,0,1,12,61.111111111111114,caught,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4496,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+KL Rahul,14,28,0,0,18,50.0,lbw,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4496,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+Mohammed Siraj,2,13,0,0,11,15.384615384615385,bowled,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4496,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+RG Sharma,51,29,3,5,14,175.86206896551724,Not Out,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4496,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+S Dhawan,8,10,1,0,6,80.0,caught,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4496,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+SN Thakur,7,23,0,0,16,30.434782608695656,Not Out,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4496,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+SS Iyer,82,103,6,3,59,79.6116504854369,caught,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4496,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+V Kohli,5,6,1,0,4,83.33333333333334,bowled,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4496,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+Washington Sundar,11,19,1,0,12,57.89473684210527,caught,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Lost,4496,India tour of Bangladesh,Bangladesh,Mehedi Hasan Miraz,Bangladesh
+AR Patel,20,17,1,1,6,117.64705882352942,bowled,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Won,4499,India tour of Bangladesh,Bangladesh,Ishan Kishan,Bangladesh
+Ishan Kishan,210,133,24,10,51,157.89473684210526,caught,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Won,4499,India tour of Bangladesh,Bangladesh,Ishan Kishan,Bangladesh
+KL Rahul,8,10,1,0,6,80.0,bowled,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Won,4499,India tour of Bangladesh,Bangladesh,Ishan Kishan,Bangladesh
+Kuldeep Yadav,3,3,0,0,0,100.0,Not Out,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Won,4499,India tour of Bangladesh,Bangladesh,Ishan Kishan,Bangladesh
+Mohammed Siraj,0,2,0,0,2,0.0,Not Out,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Won,4499,India tour of Bangladesh,Bangladesh,Ishan Kishan,Bangladesh
+S Dhawan,3,8,0,0,5,37.5,lbw,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Won,4499,India tour of Bangladesh,Bangladesh,Ishan Kishan,Bangladesh
+SN Thakur,3,5,0,0,2,60.0,caught,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Won,4499,India tour of Bangladesh,Bangladesh,Ishan Kishan,Bangladesh
+SS Iyer,3,6,0,0,3,50.0,caught,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Won,4499,India tour of Bangladesh,Bangladesh,Ishan Kishan,Bangladesh
+V Kohli,113,92,11,2,28,122.82608695652173,caught,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Won,4499,India tour of Bangladesh,Bangladesh,Ishan Kishan,Bangladesh
+Washington Sundar,37,28,4,1,11,132.14285714285714,bowled,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Won,4499,India tour of Bangladesh,Bangladesh,Ishan Kishan,Bangladesh
+AR Patel,9,9,0,0,2,100.0,caught,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Guwahati,Won,4501,Sri Lanka tour of India,Sri Lanka,V Kohli,Sri Lanka
+HH Pandya,14,13,0,1,6,107.6923076923077,caught,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Guwahati,Won,4501,Sri Lanka tour of India,Sri Lanka,V Kohli,Sri Lanka
+KL Rahul,39,29,4,1,8,134.48275862068965,bowled,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Guwahati,Won,4501,Sri Lanka tour of India,Sri Lanka,V Kohli,Sri Lanka
+Mohammed Shami,4,4,0,0,0,100.0,Not Out,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Guwahati,Won,4501,Sri Lanka tour of India,Sri Lanka,V Kohli,Sri Lanka
+Mohammed Siraj,7,8,0,0,3,87.5,Not Out,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Guwahati,Won,4501,Sri Lanka tour of India,Sri Lanka,V Kohli,Sri Lanka
+RG Sharma,83,68,9,3,32,122.05882352941177,bowled,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Guwahati,Won,4501,Sri Lanka tour of India,Sri Lanka,V Kohli,Sri Lanka
+SS Iyer,28,24,3,1,12,116.66666666666667,caught,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Guwahati,Won,4501,Sri Lanka tour of India,Sri Lanka,V Kohli,Sri Lanka
+Shubman Gill,70,60,11,0,27,116.66666666666667,lbw,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Guwahati,Won,4501,Sri Lanka tour of India,Sri Lanka,V Kohli,Sri Lanka
+V Kohli,113,88,12,1,26,128.4090909090909,caught,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Guwahati,Won,4501,Sri Lanka tour of India,Sri Lanka,V Kohli,Sri Lanka
+AR Patel,21,22,1,1,9,95.45454545454545,caught,2023-01-12,"Eden Gardens, Kolkata",Kolkata,Won,4503,Sri Lanka tour of India,Sri Lanka,Kuldeep Yadav,Sri Lanka
+HH Pandya,36,54,4,0,31,66.66666666666666,caught,2023-01-12,"Eden Gardens, Kolkata",Kolkata,Won,4503,Sri Lanka tour of India,Sri Lanka,Kuldeep Yadav,Sri Lanka
+KL Rahul,64,103,6,0,60,62.13592233009708,Not Out,2023-01-12,"Eden Gardens, Kolkata",Kolkata,Won,4503,Sri Lanka tour of India,Sri Lanka,Kuldeep Yadav,Sri Lanka
+Kuldeep Yadav,10,9,2,0,5,111.11111111111111,Not Out,2023-01-12,"Eden Gardens, Kolkata",Kolkata,Won,4503,Sri Lanka tour of India,Sri Lanka,Kuldeep Yadav,Sri Lanka
+RG Sharma,17,21,2,1,16,80.95238095238095,caught,2023-01-12,"Eden Gardens, Kolkata",Kolkata,Won,4503,Sri Lanka tour of India,Sri Lanka,Kuldeep Yadav,Sri Lanka
+SS Iyer,28,33,5,0,20,84.84848484848484,lbw,2023-01-12,"Eden Gardens, Kolkata",Kolkata,Won,4503,Sri Lanka tour of India,Sri Lanka,Kuldeep Yadav,Sri Lanka
+Shubman Gill,21,12,5,0,6,175.0,caught,2023-01-12,"Eden Gardens, Kolkata",Kolkata,Won,4503,Sri Lanka tour of India,Sri Lanka,Kuldeep Yadav,Sri Lanka
+V Kohli,4,9,1,0,8,44.44444444444444,bowled,2023-01-12,"Eden Gardens, Kolkata",Kolkata,Won,4503,Sri Lanka tour of India,Sri Lanka,Kuldeep Yadav,Sri Lanka
+AR Patel,2,2,0,0,0,100.0,Not Out,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,Won,4505,Sri Lanka tour of India,India,V Kohli,Sri Lanka
+KL Rahul,7,7,1,0,3,100.0,caught,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,Won,4505,Sri Lanka tour of India,India,V Kohli,Sri Lanka
+RG Sharma,42,49,2,3,31,85.71428571428571,caught,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,Won,4505,Sri Lanka tour of India,India,V Kohli,Sri Lanka
+SA Yadav,4,5,0,0,2,80.0,caught,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,Won,4505,Sri Lanka tour of India,India,V Kohli,Sri Lanka
+SS Iyer,38,32,2,1,7,118.75,caught,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,Won,4505,Sri Lanka tour of India,India,V Kohli,Sri Lanka
+Shubman Gill,116,97,14,2,36,119.58762886597938,bowled,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,Won,4505,Sri Lanka tour of India,India,V Kohli,Sri Lanka
+V Kohli,166,111,13,8,30,149.54954954954957,Not Out,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,Won,4505,Sri Lanka tour of India,India,V Kohli,Sri Lanka
+HH Pandya,28,38,3,0,20,73.68421052631578,bowled,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Won,4507,New Zealand tour of India,India,Shubman Gill,New Zealand
+Ishan Kishan,5,14,0,0,9,35.714285714285715,caught,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Won,4507,New Zealand tour of India,India,Shubman Gill,New Zealand
+Kuldeep Yadav,5,6,0,0,1,83.33333333333334,Not Out,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Won,4507,New Zealand tour of India,India,Shubman Gill,New Zealand
+Mohammed Shami,2,2,0,0,0,100.0,Not Out,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Won,4507,New Zealand tour of India,India,Shubman Gill,New Zealand
+RG Sharma,34,38,4,2,26,89.47368421052632,caught,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Won,4507,New Zealand tour of India,India,Shubman Gill,New Zealand
+SA Yadav,31,26,4,0,8,119.23076923076923,caught,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Won,4507,New Zealand tour of India,India,Shubman Gill,New Zealand
+SN Thakur,3,3,0,0,0,100.0,run out,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Won,4507,New Zealand tour of India,India,Shubman Gill,New Zealand
+Shubman Gill,208,153,19,9,57,135.94771241830065,caught,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Won,4507,New Zealand tour of India,India,Shubman Gill,New Zealand
+V Kohli,8,10,1,0,5,80.0,bowled,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Won,4507,New Zealand tour of India,India,Shubman Gill,New Zealand
+Washington Sundar,12,14,0,0,3,85.71428571428571,Not Out,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Won,4507,New Zealand tour of India,India,Shubman Gill,New Zealand
+Ishan Kishan,8,9,2,0,7,88.88888888888889,Not Out,2023-01-21,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Won,4509,New Zealand tour of India,India,Mohammed Shami,New Zealand
+RG Sharma,51,50,7,2,30,102.0,lbw,2023-01-21,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Won,4509,New Zealand tour of India,India,Mohammed Shami,New Zealand
+Shubman Gill,40,53,6,0,36,75.47169811320755,Not Out,2023-01-21,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Won,4509,New Zealand tour of India,India,Mohammed Shami,New Zealand
+V Kohli,11,9,2,0,4,122.22222222222223,stumped,2023-01-21,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Won,4509,New Zealand tour of India,India,Mohammed Shami,New Zealand
+HH Pandya,54,38,3,3,10,142.10526315789474,caught,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,Won,4511,New Zealand tour of India,New Zealand,SN Thakur,New Zealand
+Ishan Kishan,17,24,1,1,16,70.83333333333334,run out,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,Won,4511,New Zealand tour of India,New Zealand,SN Thakur,New Zealand
+Kuldeep Yadav,3,3,0,0,1,100.0,run out,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,Won,4511,New Zealand tour of India,New Zealand,SN Thakur,New Zealand
+RG Sharma,101,87,9,6,46,116.0919540229885,bowled,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,Won,4511,New Zealand tour of India,New Zealand,SN Thakur,New Zealand
+SA Yadav,14,9,0,2,5,155.55555555555557,caught,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,Won,4511,New Zealand tour of India,New Zealand,SN Thakur,New Zealand
+SN Thakur,25,18,3,1,7,138.88888888888889,caught,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,Won,4511,New Zealand tour of India,New Zealand,SN Thakur,New Zealand
+Shubman Gill,112,78,13,5,31,143.5897435897436,caught,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,Won,4511,New Zealand tour of India,New Zealand,SN Thakur,New Zealand
+Umran Malik,2,5,0,0,3,40.0,Not Out,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,Won,4511,New Zealand tour of India,New Zealand,SN Thakur,New Zealand
+V Kohli,36,27,3,1,5,133.33333333333331,caught,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,Won,4511,New Zealand tour of India,New Zealand,SN Thakur,New Zealand
+Washington Sundar,9,14,1,0,8,64.28571428571429,caught,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,Won,4511,New Zealand tour of India,New Zealand,SN Thakur,New Zealand
+HH Pandya,25,31,3,1,20,80.64516129032258,caught,2023-03-17,"Wankhede Stadium, Mumbai",Mumbai,Won,4538,Australia tour of India,India,RA Jadeja,Australia
+Ishan Kishan,3,8,0,0,6,37.5,lbw,2023-03-17,"Wankhede Stadium, Mumbai",Mumbai,Won,4538,Australia tour of India,India,RA Jadeja,Australia
+KL Rahul,75,93,7,1,47,80.64516129032258,Not Out,2023-03-17,"Wankhede Stadium, Mumbai",Mumbai,Won,4538,Australia tour of India,India,RA Jadeja,Australia
+RA Jadeja,45,71,5,0,43,63.38028169014085,Not Out,2023-03-17,"Wankhede Stadium, Mumbai",Mumbai,Won,4538,Australia tour of India,India,RA Jadeja,Australia
+SA Yadav,0,1,0,0,1,0.0,lbw,2023-03-17,"Wankhede Stadium, Mumbai",Mumbai,Won,4538,Australia tour of India,India,RA Jadeja,Australia
+Shubman Gill,20,31,3,0,20,64.51612903225806,caught,2023-03-17,"Wankhede Stadium, Mumbai",Mumbai,Won,4538,Australia tour of India,India,RA Jadeja,Australia
+V Kohli,4,9,1,0,8,44.44444444444444,lbw,2023-03-17,"Wankhede Stadium, Mumbai",Mumbai,Won,4538,Australia tour of India,India,RA Jadeja,Australia
+AR Patel,29,31,1,2,15,93.54838709677419,Not Out,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+HH Pandya,1,3,0,0,2,33.33333333333333,caught,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+KL Rahul,9,12,1,0,8,75.0,lbw,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+Kuldeep Yadav,4,17,0,0,13,23.52941176470588,caught,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+Mohammed Shami,0,1,0,0,1,0.0,caught,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+Mohammed Siraj,0,3,0,0,3,0.0,bowled,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+RA Jadeja,16,41,1,0,31,39.02439024390244,caught,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+RG Sharma,13,16,2,0,9,81.25,caught,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+SA Yadav,0,1,0,0,1,0.0,lbw,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+Shubman Gill,0,2,0,0,2,0.0,Not Out,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+V Kohli,31,36,4,0,19,86.11111111111111,lbw,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Lost,4541,Australia tour of India,Australia,MA Starc,Australia
+AR Patel,2,4,0,0,2,50.0,run out,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+HH Pandya,40,40,3,1,17,100.0,caught,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+KL Rahul,32,50,2,1,30,64.0,caught,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+Kuldeep Yadav,6,15,0,0,9,40.0,run out,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+Mohammed Shami,14,10,1,1,4,140.0,bowled,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+Mohammed Siraj,3,5,0,0,3,60.0,Not Out,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+RA Jadeja,18,35,1,0,23,51.42857142857142,caught,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+RG Sharma,30,17,2,2,5,176.47058823529412,caught,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+SA Yadav,0,1,0,0,1,0.0,bowled,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+Shubman Gill,37,48,4,1,30,77.08333333333334,lbw,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+V Kohli,54,72,2,1,34,75.0,caught,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Lost,4545,Australia tour of India,Australia,A Zampa,Australia
+HH Pandya,5,7,0,0,3,71.42857142857143,run out,2023-07-27,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Won,4622,India tour of West Indies,India,Kuldeep Yadav,West Indies
+Ishan Kishan,52,47,7,1,24,110.63829787234043,caught,2023-07-27,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Won,4622,India tour of West Indies,India,Kuldeep Yadav,West Indies
+RA Jadeja,16,21,1,0,8,76.19047619047619,Not Out,2023-07-27,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Won,4622,India tour of West Indies,India,Kuldeep Yadav,West Indies
+RG Sharma,12,19,2,0,13,63.1578947368421,Not Out,2023-07-27,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Won,4622,India tour of West Indies,India,Kuldeep Yadav,West Indies
+SA Yadav,19,25,3,1,20,76.0,lbw,2023-07-27,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Won,4622,India tour of West Indies,India,Kuldeep Yadav,West Indies
+SN Thakur,1,4,0,0,3,25.0,caught,2023-07-27,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Won,4622,India tour of West Indies,India,Kuldeep Yadav,West Indies
+Shubman Gill,7,16,1,0,13,43.75,caught,2023-07-27,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Won,4622,India tour of West Indies,India,Kuldeep Yadav,West Indies
+AR Patel,1,8,0,0,7,12.5,caught,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+HH Pandya,7,14,0,0,8,50.0,caught,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+Ishan Kishan,55,56,6,1,30,98.21428571428571,caught,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+Kuldeep Yadav,8,24,1,0,19,33.33333333333333,Not Out,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+Mukesh Kumar,6,7,1,0,5,85.71428571428571,caught,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+RA Jadeja,10,21,0,0,12,47.61904761904761,caught,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+SA Yadav,24,25,3,0,11,96.0,caught,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+SN Thakur,16,22,2,0,13,72.72727272727273,lbw,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+SV Samson,9,19,0,0,11,47.368421052631575,caught,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+Shubman Gill,34,51,5,0,34,66.66666666666666,caught,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+Umran Malik,0,2,0,0,2,0.0,caught,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Lost,4623,India tour of West Indies and United States of America,West Indies,SD Hope,West Indies
+HH Pandya,70,54,4,5,24,129.62962962962962,Not Out,2023-08-01,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Won,4624,India tour of West Indies and United States of America,West Indies,Shubman Gill,West Indies
+Ishan Kishan,77,64,8,3,31,120.3125,stumped,2023-08-01,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Won,4624,India tour of West Indies and United States of America,West Indies,Shubman Gill,West Indies
+RA Jadeja,8,7,0,0,1,114.28571428571428,Not Out,2023-08-01,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Won,4624,India tour of West Indies and United States of America,West Indies,Shubman Gill,West Indies
+RD Gaikwad,8,14,1,0,9,57.14285714285714,caught,2023-08-01,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Won,4624,India tour of West Indies and United States of America,West Indies,Shubman Gill,West Indies
+SA Yadav,35,31,2,2,13,112.90322580645163,caught,2023-08-01,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Won,4624,India tour of West Indies and United States of America,West Indies,Shubman Gill,West Indies
+SV Samson,51,41,2,4,21,124.39024390243902,caught,2023-08-01,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Won,4624,India tour of West Indies and United States of America,West Indies,Shubman Gill,West Indies
+Shubman Gill,85,93,11,0,46,91.39784946236558,caught,2023-08-01,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Won,4624,India tour of West Indies and United States of America,West Indies,Shubman Gill,West Indies
+HH Pandya,11,8,0,1,2,137.5,Not Out,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+Ishan Kishan,0,1,0,0,1,0.0,caught,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+KL Rahul,97,116,8,2,58,83.62068965517241,Not Out,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+RG Sharma,0,6,0,0,6,0.0,lbw,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+SS Iyer,0,3,0,0,3,0.0,caught,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+V Kohli,85,116,6,0,56,73.27586206896551,caught,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+KL Rahul,19,29,2,0,17,65.51724137931035,Not Out,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4669,ICC Cricket World Cup,India,JJ Bumrah,Pakistan
+RG Sharma,86,63,6,6,27,136.5079365079365,caught,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4669,ICC Cricket World Cup,India,JJ Bumrah,Pakistan
+SS Iyer,53,62,3,2,29,85.48387096774194,Not Out,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4669,ICC Cricket World Cup,India,JJ Bumrah,Pakistan
+Shubman Gill,16,11,4,0,7,145.45454545454547,caught,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4669,ICC Cricket World Cup,India,JJ Bumrah,Pakistan
+V Kohli,16,18,3,0,11,88.88888888888889,caught,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4669,ICC Cricket World Cup,India,JJ Bumrah,Pakistan
+KL Rahul,34,34,3,1,14,100.0,Not Out,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Won,4674,ICC Cricket World Cup,Bangladesh,V Kohli,Bangladesh
+RG Sharma,48,40,7,2,24,120.0,caught,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Won,4674,ICC Cricket World Cup,Bangladesh,V Kohli,Bangladesh
+SS Iyer,19,25,2,0,13,76.0,caught,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Won,4674,ICC Cricket World Cup,Bangladesh,V Kohli,Bangladesh
+Shubman Gill,53,55,5,2,30,96.36363636363636,caught,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Won,4674,ICC Cricket World Cup,Bangladesh,V Kohli,Bangladesh
+V Kohli,103,98,6,4,38,105.10204081632652,Not Out,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Won,4674,ICC Cricket World Cup,Bangladesh,V Kohli,Bangladesh
+KL Rahul,27,35,3,0,18,77.14285714285715,lbw,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+Mohammed Shami,1,1,0,0,0,100.0,Not Out,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+RA Jadeja,39,45,3,1,21,86.66666666666667,Not Out,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+RG Sharma,46,40,4,4,27,114.99999999999999,bowled,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+SA Yadav,2,4,0,0,2,50.0,run out,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+SS Iyer,33,29,6,0,15,113.79310344827587,caught,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+Shubman Gill,26,31,5,0,20,83.87096774193549,caught,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+V Kohli,95,107,8,2,50,88.78504672897196,caught,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+JJ Bumrah,16,25,1,0,15,64.0,run out,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+KL Rahul,39,58,3,0,31,67.24137931034483,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+Kuldeep Yadav,9,13,1,0,7,69.23076923076923,Not Out,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+Mohammed Shami,1,5,0,0,4,20.0,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+RA Jadeja,8,13,0,0,6,61.53846153846154,lbw,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+RG Sharma,87,101,10,3,62,86.13861386138613,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+SA Yadav,49,48,4,1,20,102.08333333333333,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+SS Iyer,4,16,0,0,12,25.0,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+Shubman Gill,9,13,1,0,9,69.23076923076923,bowled,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+V Kohli,0,9,0,0,9,0.0,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+JJ Bumrah,1,1,0,0,0,100.0,Not Out,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+KL Rahul,21,20,2,0,5,105.0,caught,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+Mohammed Shami,2,4,0,0,2,50.0,run out,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+RA Jadeja,35,25,1,1,4,140.0,run out,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+RG Sharma,4,2,1,0,1,200.0,bowled,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+SA Yadav,12,9,2,0,4,133.33333333333331,caught,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+SS Iyer,82,57,3,6,19,143.859649122807,Not Out,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+Shubman Gill,92,94,11,2,49,97.87234042553192,caught,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+V Kohli,88,95,11,0,45,92.63157894736842,caught,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+KL Rahul,8,17,0,0,9,47.05882352941176,caught,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+RA Jadeja,29,16,3,1,3,181.25,Not Out,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+RG Sharma,40,25,6,2,13,160.0,caught,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+SA Yadav,22,13,5,0,6,169.23076923076923,caught,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+SS Iyer,77,88,7,2,46,87.5,caught,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+Shubman Gill,23,24,4,1,18,95.83333333333334,Not Out,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+V Kohli,101,122,10,0,57,82.78688524590164,Not Out,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+KL Rahul,102,66,11,4,18,154.54545454545453,caught,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+RG Sharma,61,55,8,2,29,110.9090909090909,caught,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+SA Yadav,2,1,0,0,0,200.0,Not Out,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+SS Iyer,128,98,10,5,29,130.6122448979592,Not Out,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+Shubman Gill,51,33,3,4,15,154.54545454545453,caught,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+V Kohli,51,57,5,1,27,89.47368421052632,bowled,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+KL Rahul,39,20,5,2,7,195.0,Not Out,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+RG Sharma,47,30,4,4,17,156.66666666666666,caught,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+SA Yadav,1,2,0,0,1,50.0,caught,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+SS Iyer,105,72,4,8,20,145.83333333333331,caught,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+Shubman Gill,80,66,8,3,29,121.21212121212122,Not Out,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+V Kohli,117,113,9,2,43,103.53982300884957,caught,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+JJ Bumrah,1,3,0,0,2,33.33333333333333,lbw,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+KL Rahul,66,108,1,0,50,61.111111111111114,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+Kuldeep Yadav,10,19,0,0,10,52.63157894736842,run out,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+Mohammed Shami,6,10,1,0,7,60.0,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+Mohammed Siraj,9,8,1,0,2,112.5,Not Out,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+RA Jadeja,9,22,0,0,13,40.909090909090914,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+RG Sharma,47,31,4,3,13,151.61290322580646,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+SA Yadav,18,29,1,0,15,62.06896551724138,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+SS Iyer,4,3,1,0,2,133.33333333333331,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+Shubman Gill,4,7,0,0,4,57.14285714285714,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+V Kohli,54,63,4,0,23,85.71428571428571,bowled,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+B Sai Sudharsan,55,43,9,0,16,127.90697674418605,Not Out,2023-12-17,"The Wanderers Stadium, Johannesburg",Johannesburg,Won,4713,India tour of South Africa,South Africa,Arshdeep Singh,South Africa
+RD Gaikwad,5,10,1,0,8,50.0,Not Out,2023-12-17,"The Wanderers Stadium, Johannesburg",Johannesburg,Won,4713,India tour of South Africa,South Africa,Arshdeep Singh,South Africa
+SS Iyer,52,46,6,1,24,113.04347826086956,caught,2023-12-17,"The Wanderers Stadium, Johannesburg",Johannesburg,Won,4713,India tour of South Africa,South Africa,Arshdeep Singh,South Africa
+Tilak Varma,1,3,0,0,2,33.33333333333333,Not Out,2023-12-17,"The Wanderers Stadium, Johannesburg",Johannesburg,Won,4713,India tour of South Africa,South Africa,Arshdeep Singh,South Africa
+AR Patel,7,24,0,0,17,29.166666666666668,caught,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+Arshdeep Singh,18,17,1,1,10,105.88235294117648,caught,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+Avesh Khan,9,9,0,1,5,100.0,run out,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+B Sai Sudharsan,62,84,7,1,51,73.80952380952381,caught,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+KL Rahul,56,64,7,0,31,87.5,caught,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+Kuldeep Yadav,1,5,0,0,4,20.0,caught,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+Mukesh Kumar,4,8,1,0,7,50.0,Not Out,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+RD Gaikwad,4,2,1,0,1,200.0,lbw,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+RK Singh,17,14,2,1,8,121.42857142857142,stumped,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+SV Samson,12,23,1,0,15,52.17391304347826,bowled,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+Tilak Varma,10,30,0,0,23,33.33333333333333,caught,2023-12-19,"St George's Park, Gqeberha",Gqeberha,Lost,4714,India tour of South Africa,South Africa,T de Zorzi,South Africa
+AR Patel,1,4,0,0,3,25.0,caught,2023-12-21,"Boland Park, Paarl",Paarl,Won,4716,India tour of South Africa,South Africa,SV Samson,South Africa
+Arshdeep Singh,7,2,0,1,0,350.0,Not Out,2023-12-21,"Boland Park, Paarl",Paarl,Won,4716,India tour of South Africa,South Africa,SV Samson,South Africa
+Avesh Khan,1,2,0,0,1,50.0,Not Out,2023-12-21,"Boland Park, Paarl",Paarl,Won,4716,India tour of South Africa,South Africa,SV Samson,South Africa
+B Sai Sudharsan,10,16,1,0,11,62.5,lbw,2023-12-21,"Boland Park, Paarl",Paarl,Won,4716,India tour of South Africa,South Africa,SV Samson,South Africa
+KL Rahul,21,36,2,0,21,58.333333333333336,caught,2023-12-21,"Boland Park, Paarl",Paarl,Won,4716,India tour of South Africa,South Africa,SV Samson,South Africa
+RK Singh,38,29,3,2,10,131.0344827586207,caught,2023-12-21,"Boland Park, Paarl",Paarl,Won,4716,India tour of South Africa,South Africa,SV Samson,South Africa
+RM Patidar,22,16,3,1,9,137.5,bowled,2023-12-21,"Boland Park, Paarl",Paarl,Won,4716,India tour of South Africa,South Africa,SV Samson,South Africa
+SV Samson,108,114,6,3,46,94.73684210526315,caught,2023-12-21,"Boland Park, Paarl",Paarl,Won,4716,India tour of South Africa,South Africa,SV Samson,South Africa
+Tilak Varma,52,78,5,1,47,66.66666666666666,caught,2023-12-21,"Boland Park, Paarl",Paarl,Won,4716,India tour of South Africa,South Africa,SV Samson,South Africa
+Washington Sundar,14,10,2,0,3,140.0,caught,2023-12-21,"Boland Park, Paarl",Paarl,Won,4716,India tour of South Africa,South Africa,SV Samson,South Africa
+HH Pandya,87,90,7,1,38,96.66666666666667,caught,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+Ishan Kishan,82,81,9,2,39,101.23456790123457,caught,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+JJ Bumrah,16,14,3,0,7,114.28571428571428,caught,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+Kuldeep Yadav,4,15,0,0,11,26.666666666666668,caught,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+Mohammed Siraj,1,1,0,0,0,100.0,Not Out,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+RA Jadeja,14,22,1,0,14,63.63636363636363,caught,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+RG Sharma,11,22,2,0,17,50.0,bowled,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+SN Thakur,3,3,0,0,2,100.0,caught,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+SS Iyer,14,10,2,0,4,140.0,caught,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+Shubman Gill,10,32,1,0,25,31.25,bowled,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+V Kohli,4,7,1,0,6,57.14285714285714,bowled,2023-09-02,Pallekele International Cricket Stadium,Kandy,no result,4630,Asia Cup,India,,Pakistan
+RG Sharma,74,60,6,5,30,123.33333333333334,Not Out,2023-09-04,Pallekele International Cricket Stadium,Kandy,Won,4632,Asia Cup,India,RG Sharma,Nepal
+Shubman Gill,67,63,8,1,26,106.34920634920636,Not Out,2023-09-04,Pallekele International Cricket Stadium,Kandy,Won,4632,Asia Cup,India,RG Sharma,Nepal
+KL Rahul,111,106,12,2,47,104.71698113207549,Not Out,2023-09-10,"R Premadasa Stadium, Colombo",Colombo,Won,4639,Asia Cup,Pakistan,V Kohli,Pakistan
+RG Sharma,56,49,6,4,32,114.28571428571428,caught,2023-09-10,"R Premadasa Stadium, Colombo",Colombo,Won,4639,Asia Cup,Pakistan,V Kohli,Pakistan
+Shubman Gill,58,52,10,0,27,111.53846153846155,caught,2023-09-10,"R Premadasa Stadium, Colombo",Colombo,Won,4639,Asia Cup,Pakistan,V Kohli,Pakistan
+V Kohli,122,94,9,3,29,129.7872340425532,Not Out,2023-09-10,"R Premadasa Stadium, Colombo",Colombo,Won,4639,Asia Cup,Pakistan,V Kohli,Pakistan
+AR Patel,26,36,0,1,17,72.22222222222221,Not Out,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+HH Pandya,5,18,0,0,13,27.77777777777778,caught,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+Ishan Kishan,33,61,1,1,37,54.09836065573771,caught,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+JJ Bumrah,5,12,0,0,8,41.66666666666667,bowled,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+KL Rahul,39,44,2,0,16,88.63636363636364,caught and bowled,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+Kuldeep Yadav,0,1,0,0,1,0.0,caught,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+Mohammed Siraj,5,19,0,0,14,26.31578947368421,Not Out,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+RA Jadeja,4,19,0,0,15,21.052631578947366,caught,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+RG Sharma,53,50,7,2,30,106.0,bowled,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+Shubman Gill,19,26,2,0,15,73.07692307692307,bowled,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+V Kohli,3,12,0,0,10,25.0,caught,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Won,4641,Asia Cup,India,DN Wellalage,Sri Lanka
+AR Patel,42,35,3,2,14,120.0,caught,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+Ishan Kishan,5,15,0,0,10,33.33333333333333,lbw,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+KL Rahul,19,40,2,0,27,47.5,caught,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+M Prasidh Krishna,0,2,0,0,2,0.0,Not Out,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+Mohammed Shami,6,6,1,0,3,100.0,run out,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+RA Jadeja,7,12,0,0,5,58.333333333333336,bowled,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+RG Sharma,0,2,0,0,2,0.0,Not Out,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+SA Yadav,26,34,3,0,19,76.47058823529412,bowled,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+SN Thakur,11,13,0,0,4,84.61538461538461,caught,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+Shubman Gill,121,132,8,5,69,91.66666666666666,caught,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+Tilak Varma,5,9,1,0,7,55.55555555555556,bowled,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Lost,4645,Asia Cup,India,Shakib Al Hasan,Bangladesh
+Ishan Kishan,23,18,3,0,8,127.77777777777777,Not Out,2023-09-17,"R Premadasa Stadium, Colombo",Colombo,Won,4649,Asia Cup,Sri Lanka,Mohammed Siraj,Sri Lanka
+Shubman Gill,27,19,6,0,10,142.10526315789474,Not Out,2023-09-17,"R Premadasa Stadium, Colombo",Colombo,Won,4649,Asia Cup,Sri Lanka,Mohammed Siraj,Sri Lanka
+Ishan Kishan,18,26,2,0,15,69.23076923076923,caught,2023-09-22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Won,4651,Australia tour of India,India,Mohammed Shami,Australia
+KL Rahul,58,63,4,1,25,92.06349206349206,Not Out,2023-09-22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Won,4651,Australia tour of India,India,Mohammed Shami,Australia
+RA Jadeja,3,7,0,0,4,42.857142857142854,Not Out,2023-09-22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Won,4651,Australia tour of India,India,Mohammed Shami,Australia
+RD Gaikwad,71,77,10,0,42,92.20779220779221,lbw,2023-09-22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Won,4651,Australia tour of India,India,Mohammed Shami,Australia
+SA Yadav,50,49,5,1,20,102.04081632653062,caught,2023-09-22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Won,4651,Australia tour of India,India,Mohammed Shami,Australia
+SS Iyer,3,8,0,0,5,37.5,run out,2023-09-22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Won,4651,Australia tour of India,India,Mohammed Shami,Australia
+Shubman Gill,74,63,7,2,22,117.46031746031747,bowled,2023-09-22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Won,4651,Australia tour of India,India,Mohammed Shami,Australia
+Ishan Kishan,31,19,2,2,5,163.1578947368421,caught,2023-09-24,"Holkar Cricket Stadium, Indore",Indore,Won,4654,Australia tour of India,Australia,SS Iyer,Australia
+KL Rahul,52,40,3,3,12,130.0,bowled,2023-09-24,"Holkar Cricket Stadium, Indore",Indore,Won,4654,Australia tour of India,Australia,SS Iyer,Australia
+RA Jadeja,13,9,1,0,0,144.44444444444443,Not Out,2023-09-24,"Holkar Cricket Stadium, Indore",Indore,Won,4654,Australia tour of India,Australia,SS Iyer,Australia
+RD Gaikwad,8,12,2,0,10,66.66666666666666,caught,2023-09-24,"Holkar Cricket Stadium, Indore",Indore,Won,4654,Australia tour of India,Australia,SS Iyer,Australia
+SA Yadav,72,39,6,6,15,184.6153846153846,Not Out,2023-09-24,"Holkar Cricket Stadium, Indore",Indore,Won,4654,Australia tour of India,Australia,SS Iyer,Australia
+SS Iyer,105,91,11,3,36,115.38461538461537,caught,2023-09-24,"Holkar Cricket Stadium, Indore",Indore,Won,4654,Australia tour of India,Australia,SS Iyer,Australia
+Shubman Gill,104,97,6,4,33,107.21649484536083,caught,2023-09-24,"Holkar Cricket Stadium, Indore",Indore,Won,4654,Australia tour of India,Australia,SS Iyer,Australia
+JJ Bumrah,5,11,1,0,9,45.45454545454545,caught,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+KL Rahul,26,31,2,0,13,83.87096774193549,caught,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+Kuldeep Yadav,2,12,0,0,10,16.666666666666664,bowled,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+M Prasidh Krishna,0,3,0,0,3,0.0,Not Out,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+Mohammed Siraj,1,8,0,0,7,12.5,caught,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+RA Jadeja,35,36,3,1,17,97.22222222222221,lbw,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+RG Sharma,81,57,5,6,27,142.10526315789474,caught and bowled,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+SA Yadav,8,7,1,0,3,114.28571428571428,caught,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+SS Iyer,48,43,1,2,12,111.62790697674419,bowled,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+V Kohli,56,61,5,1,29,91.80327868852459,caught,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+Washington Sundar,18,30,1,1,20,60.0,caught,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Lost,4657,Australia tour of India,Australia,GJ Maxwell,Australia
+AR Patel,52,47,6,1,19,110.63829787234043,bowled,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Won,4825,England tour of India,England,Shubman Gill,England
+HH Pandya,9,6,0,1,2,150.0,Not Out,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Won,4825,England tour of India,England,Shubman Gill,England
+KL Rahul,2,9,0,0,7,22.22222222222222,caught and bowled,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Won,4825,England tour of India,England,Shubman Gill,England
+RA Jadeja,12,10,2,0,5,120.0,Not Out,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Won,4825,England tour of India,England,Shubman Gill,England
+RG Sharma,2,7,0,0,6,28.57142857142857,caught,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Won,4825,England tour of India,England,Shubman Gill,England
+SS Iyer,59,36,9,2,16,163.88888888888889,lbw,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Won,4825,England tour of India,England,Shubman Gill,England
+Shubman Gill,87,97,14,0,56,89.69072164948454,caught,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Won,4825,England tour of India,England,Shubman Gill,England
+YBK Jaiswal,15,23,3,0,17,65.21739130434783,caught,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Won,4825,England tour of India,England,Shubman Gill,England
+AR Patel,41,43,4,0,17,95.34883720930233,Not Out,2025-02-09,"Barabati Stadium, Cuttack",Cuttack,Won,4828,England tour of India,England,RG Sharma,England
+HH Pandya,10,6,2,0,2,166.66666666666669,caught,2025-02-09,"Barabati Stadium, Cuttack",Cuttack,Won,4828,England tour of India,England,RG Sharma,England
+KL Rahul,10,14,1,0,7,71.42857142857143,caught,2025-02-09,"Barabati Stadium, Cuttack",Cuttack,Won,4828,England tour of India,England,RG Sharma,England
+RA Jadeja,11,7,2,0,2,157.14285714285714,Not Out,2025-02-09,"Barabati Stadium, Cuttack",Cuttack,Won,4828,England tour of India,England,RG Sharma,England
+RG Sharma,119,90,12,7,43,132.22222222222223,caught,2025-02-09,"Barabati Stadium, Cuttack",Cuttack,Won,4828,England tour of India,England,RG Sharma,England
+SS Iyer,44,47,3,1,18,93.61702127659575,run out,2025-02-09,"Barabati Stadium, Cuttack",Cuttack,Won,4828,England tour of India,England,RG Sharma,England
+Shubman Gill,60,53,9,1,26,113.20754716981132,bowled,2025-02-09,"Barabati Stadium, Cuttack",Cuttack,Won,4828,England tour of India,England,RG Sharma,England
+V Kohli,5,8,1,0,6,62.5,caught,2025-02-09,"Barabati Stadium, Cuttack",Cuttack,Won,4828,England tour of India,England,RG Sharma,England
+AR Patel,13,12,2,0,5,108.33333333333333,Not Out,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+Arshdeep Singh,2,2,0,0,1,100.0,run out,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+HH Pandya,17,9,0,2,2,188.88888888888889,bowled,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+Harshit Rana,13,10,1,1,5,130.0,caught,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+KL Rahul,40,29,3,1,7,137.93103448275863,lbw,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+Kuldeep Yadav,1,1,0,0,0,100.0,Not Out,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+RG Sharma,1,2,0,0,1,50.0,caught,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+SS Iyer,78,66,8,2,24,118.18181818181819,caught,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+Shubman Gill,112,102,14,3,50,109.80392156862746,bowled,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+V Kohli,52,56,7,1,30,92.85714285714286,caught,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+Washington Sundar,14,14,1,0,3,100.0,caught,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4833,England tour of India,England,Shubman Gill,England
+AR Patel,33,57,2,1,36,57.89473684210527,caught,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+Arshdeep Singh,0,1,0,0,1,0.0,lbw,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+KL Rahul,31,43,2,0,20,72.09302325581395,caught,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+Kuldeep Yadav,2,10,0,0,8,20.0,bowled,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+Mohammed Siraj,5,12,0,0,8,41.66666666666667,Not Out,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+RG Sharma,58,47,7,3,26,123.40425531914893,lbw,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+S Dube,25,24,1,2,12,104.16666666666667,lbw,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+SS Iyer,23,23,4,0,12,100.0,bowled,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+Shubman Gill,16,35,2,0,25,45.714285714285715,caught,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+V Kohli,24,32,2,0,14,75.0,lbw,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+Washington Sundar,5,4,1,0,2,125.0,lbw,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,tie,4752,India tour of Sri Lanka,Sri Lanka,DN Wellalage,Sri Lanka
+AR Patel,44,44,4,2,24,100.0,caught and bowled,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+Arshdeep Singh,3,4,0,0,1,75.0,run out,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+KL Rahul,0,2,0,0,2,0.0,bowled,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+Kuldeep Yadav,7,27,0,0,20,25.925925925925924,Not Out,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+Mohammed Siraj,4,18,0,0,15,22.22222222222222,lbw,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+RG Sharma,64,44,5,4,17,145.45454545454547,caught,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+S Dube,0,4,0,0,4,0.0,lbw,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+SS Iyer,7,9,1,0,5,77.77777777777779,lbw,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+Shubman Gill,35,44,3,0,20,79.54545454545455,caught,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+V Kohli,14,19,2,0,11,73.68421052631578,lbw,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+Washington Sundar,15,40,0,0,27,37.5,lbw,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Lost,4753,India tour of Sri Lanka,Sri Lanka,JDF Vandersay,Sri Lanka
+AR Patel,2,7,0,0,5,28.57142857142857,bowled,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Lost,4754,India tour of Sri Lanka,Sri Lanka,WIA Fernando,Sri Lanka
+Kuldeep Yadav,6,30,0,0,24,20.0,lbw,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Lost,4754,India tour of Sri Lanka,Sri Lanka,WIA Fernando,Sri Lanka
+R Parag,15,13,2,0,5,115.38461538461537,bowled,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Lost,4754,India tour of Sri Lanka,Sri Lanka,WIA Fernando,Sri Lanka
+RG Sharma,35,20,6,1,8,175.0,caught,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Lost,4754,India tour of Sri Lanka,Sri Lanka,WIA Fernando,Sri Lanka
+RR Pant,6,9,1,0,6,66.66666666666666,stumped,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Lost,4754,India tour of Sri Lanka,Sri Lanka,WIA Fernando,Sri Lanka
+S Dube,9,14,1,0,8,64.28571428571429,lbw,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Lost,4754,India tour of Sri Lanka,Sri Lanka,WIA Fernando,Sri Lanka
+SS Iyer,8,7,2,0,5,114.28571428571428,lbw,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Lost,4754,India tour of Sri Lanka,Sri Lanka,WIA Fernando,Sri Lanka
+Shubman Gill,6,14,0,0,10,42.857142857142854,bowled,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Lost,4754,India tour of Sri Lanka,Sri Lanka,WIA Fernando,Sri Lanka
+V Kohli,20,18,4,0,12,111.11111111111111,lbw,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Lost,4754,India tour of Sri Lanka,Sri Lanka,WIA Fernando,Sri Lanka
+Washington Sundar,30,25,2,3,17,120.0,caught,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Lost,4754,India tour of Sri Lanka,Sri Lanka,WIA Fernando,Sri Lanka
+AR Patel,8,12,1,0,7,66.66666666666666,caught and bowled,2025-02-20,Dubai International Cricket Stadium,Dubai,Won,4844,ICC Champions Trophy,Bangladesh,Shubman Gill,Bangladesh
+KL Rahul,41,47,1,2,21,87.2340425531915,Not Out,2025-02-20,Dubai International Cricket Stadium,Dubai,Won,4844,ICC Champions Trophy,Bangladesh,Shubman Gill,Bangladesh
+RG Sharma,41,36,7,0,19,113.88888888888889,caught,2025-02-20,Dubai International Cricket Stadium,Dubai,Won,4844,ICC Champions Trophy,Bangladesh,Shubman Gill,Bangladesh
+SS Iyer,15,17,2,0,9,88.23529411764706,caught,2025-02-20,Dubai International Cricket Stadium,Dubai,Won,4844,ICC Champions Trophy,Bangladesh,Shubman Gill,Bangladesh
+Shubman Gill,101,132,9,2,70,76.51515151515152,Not Out,2025-02-20,Dubai International Cricket Stadium,Dubai,Won,4844,ICC Champions Trophy,Bangladesh,Shubman Gill,Bangladesh
+V Kohli,22,38,1,0,20,57.89473684210527,caught,2025-02-20,Dubai International Cricket Stadium,Dubai,Won,4844,ICC Champions Trophy,Bangladesh,Shubman Gill,Bangladesh
+AR Patel,3,5,0,0,2,60.0,Not Out,2025-02-23,Dubai International Cricket Stadium,Dubai,Won,4847,ICC Champions Trophy,Pakistan,V Kohli,Pakistan
+HH Pandya,8,6,1,0,2,133.33333333333331,caught,2025-02-23,Dubai International Cricket Stadium,Dubai,Won,4847,ICC Champions Trophy,Pakistan,V Kohli,Pakistan
+RG Sharma,20,16,3,1,10,125.0,bowled,2025-02-23,Dubai International Cricket Stadium,Dubai,Won,4847,ICC Champions Trophy,Pakistan,V Kohli,Pakistan
+SS Iyer,56,70,5,1,37,80.0,caught,2025-02-23,Dubai International Cricket Stadium,Dubai,Won,4847,ICC Champions Trophy,Pakistan,V Kohli,Pakistan
+Shubman Gill,46,52,7,0,31,88.46153846153845,bowled,2025-02-23,Dubai International Cricket Stadium,Dubai,Won,4847,ICC Champions Trophy,Pakistan,V Kohli,Pakistan
+V Kohli,100,112,7,0,46,89.28571428571429,Not Out,2025-02-23,Dubai International Cricket Stadium,Dubai,Won,4847,ICC Champions Trophy,Pakistan,V Kohli,Pakistan
+AR Patel,42,63,3,1,37,66.66666666666666,caught,2025-03-02,Dubai International Cricket Stadium,Dubai,Won,4852,ICC Champions Trophy,New Zealand,CV Varun,New Zealand
+HH Pandya,45,46,4,2,24,97.82608695652173,Not Out,2025-03-02,Dubai International Cricket Stadium,Dubai,Won,4852,ICC Champions Trophy,New Zealand,CV Varun,New Zealand
+KL Rahul,23,29,1,0,11,79.3103448275862,caught,2025-03-02,Dubai International Cricket Stadium,Dubai,Won,4852,ICC Champions Trophy,New Zealand,CV Varun,New Zealand
+Kuldeep Yadav,1,1,0,0,0,100.0,Not Out,2025-03-02,Dubai International Cricket Stadium,Dubai,Won,4852,ICC Champions Trophy,New Zealand,CV Varun,New Zealand
+Mohammed Shami,5,8,0,0,4,62.5,caught,2025-03-02,Dubai International Cricket Stadium,Dubai,Won,4852,ICC Champions Trophy,New Zealand,CV Varun,New Zealand
+RA Jadeja,16,20,1,0,8,80.0,caught,2025-03-02,Dubai International Cricket Stadium,Dubai,Won,4852,ICC Champions Trophy,New Zealand,CV Varun,New Zealand
+RG Sharma,15,17,1,1,12,88.23529411764706,Not Out,2025-03-02,Dubai International Cricket Stadium,Dubai,Won,4852,ICC Champions Trophy,New Zealand,CV Varun,New Zealand
+SS Iyer,79,99,4,2,47,79.7979797979798,caught,2025-03-02,Dubai International Cricket Stadium,Dubai,Won,4852,ICC Champions Trophy,New Zealand,CV Varun,New Zealand
+Shubman Gill,2,7,0,0,5,28.57142857142857,lbw,2025-03-02,Dubai International Cricket Stadium,Dubai,Won,4852,ICC Champions Trophy,New Zealand,CV Varun,New Zealand
+V Kohli,11,14,2,0,10,78.57142857142857,caught,2025-03-02,Dubai International Cricket Stadium,Dubai,Won,4852,ICC Champions Trophy,New Zealand,CV Varun,New Zealand
+AR Patel,27,30,1,1,14,90.0,bowled,2025-03-04,Dubai International Cricket Stadium,Dubai,Won,4853,ICC Champions Trophy,Australia,V Kohli,Australia
+HH Pandya,28,25,1,3,16,112.00000000000001,caught,2025-03-04,Dubai International Cricket Stadium,Dubai,Won,4853,ICC Champions Trophy,Australia,V Kohli,Australia
+KL Rahul,42,34,2,2,10,123.52941176470588,Not Out,2025-03-04,Dubai International Cricket Stadium,Dubai,Won,4853,ICC Champions Trophy,Australia,V Kohli,Australia
+RA Jadeja,2,1,0,0,0,200.0,Not Out,2025-03-04,Dubai International Cricket Stadium,Dubai,Won,4853,ICC Champions Trophy,Australia,V Kohli,Australia
+RG Sharma,28,30,3,1,18,93.33333333333333,lbw,2025-03-04,Dubai International Cricket Stadium,Dubai,Won,4853,ICC Champions Trophy,Australia,V Kohli,Australia
+SS Iyer,45,62,3,0,29,72.58064516129032,bowled,2025-03-04,Dubai International Cricket Stadium,Dubai,Won,4853,ICC Champions Trophy,Australia,V Kohli,Australia
+Shubman Gill,8,12,1,0,7,66.66666666666666,bowled,2025-03-04,Dubai International Cricket Stadium,Dubai,Won,4853,ICC Champions Trophy,Australia,V Kohli,Australia
+V Kohli,84,98,5,0,33,85.71428571428571,caught,2025-03-04,Dubai International Cricket Stadium,Dubai,Won,4853,ICC Champions Trophy,Australia,V Kohli,Australia
+AR Patel,29,40,1,1,19,72.5,caught,2025-03-09,Dubai International Cricket Stadium,Dubai,Won,4858,ICC Champions Trophy,New Zealand,RG Sharma,New Zealand
+HH Pandya,18,19,1,1,10,94.73684210526315,caught and bowled,2025-03-09,Dubai International Cricket Stadium,Dubai,Won,4858,ICC Champions Trophy,New Zealand,RG Sharma,New Zealand
+KL Rahul,34,33,1,1,11,103.03030303030303,Not Out,2025-03-09,Dubai International Cricket Stadium,Dubai,Won,4858,ICC Champions Trophy,New Zealand,RG Sharma,New Zealand
+RA Jadeja,9,6,1,0,2,150.0,Not Out,2025-03-09,Dubai International Cricket Stadium,Dubai,Won,4858,ICC Champions Trophy,New Zealand,RG Sharma,New Zealand
+RG Sharma,76,82,7,3,47,92.6829268292683,stumped,2025-03-09,Dubai International Cricket Stadium,Dubai,Won,4858,ICC Champions Trophy,New Zealand,RG Sharma,New Zealand
+SS Iyer,48,62,2,2,33,77.41935483870968,caught,2025-03-09,Dubai International Cricket Stadium,Dubai,Won,4858,ICC Champions Trophy,New Zealand,RG Sharma,New Zealand
+Shubman Gill,31,51,0,1,29,60.78431372549019,caught,2025-03-09,Dubai International Cricket Stadium,Dubai,Won,4858,ICC Champions Trophy,New Zealand,RG Sharma,New Zealand
+V Kohli,1,2,0,0,1,50.0,lbw,2025-03-09,Dubai International Cricket Stadium,Dubai,Won,4858,ICC Champions Trophy,New Zealand,RG Sharma,New Zealand
+AR Patel,31,38,3,0,20,81.57894736842105,caught,2025-10-19,Perth Stadium,Perth,Lost,4911,India tour of Australia,Australia,MR Marsh,Australia
+Harshit Rana,1,2,0,0,1,50.0,caught,2025-10-19,Perth Stadium,Perth,Lost,4911,India tour of Australia,Australia,MR Marsh,Australia
+KL Rahul,38,32,2,2,11,118.75,caught,2025-10-19,Perth Stadium,Perth,Lost,4911,India tour of Australia,Australia,MR Marsh,Australia
+Nithish Kumar Reddy,19,11,0,2,3,172.72727272727272,Not Out,2025-10-19,Perth Stadium,Perth,Lost,4911,India tour of Australia,Australia,MR Marsh,Australia
+RG Sharma,8,14,1,0,10,57.14285714285714,caught,2025-10-19,Perth Stadium,Perth,Lost,4911,India tour of Australia,Australia,MR Marsh,Australia
+SS Iyer,11,24,1,0,18,45.83333333333333,caught,2025-10-19,Perth Stadium,Perth,Lost,4911,India tour of Australia,Australia,MR Marsh,Australia
+Shubman Gill,10,19,2,0,15,52.63157894736842,caught,2025-10-19,Perth Stadium,Perth,Lost,4911,India tour of Australia,Australia,MR Marsh,Australia
+V Kohli,0,8,0,0,8,0.0,caught,2025-10-19,Perth Stadium,Perth,Lost,4911,India tour of Australia,Australia,MR Marsh,Australia
+Washington Sundar,10,10,1,0,4,100.0,bowled,2025-10-19,Perth Stadium,Perth,Lost,4911,India tour of Australia,Australia,MR Marsh,Australia
+AR Patel,44,43,5,0,16,102.32558139534885,caught,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+Arshdeep Singh,13,14,2,0,8,92.85714285714286,bowled,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+Harshit Rana,24,18,3,0,5,133.33333333333331,Not Out,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+KL Rahul,11,15,1,0,9,73.33333333333333,bowled,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+Mohammed Siraj,0,1,0,0,1,0.0,Not Out,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+Nithish Kumar Reddy,8,10,1,0,5,80.0,stumped,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+RG Sharma,73,97,7,2,57,75.25773195876289,caught,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+SS Iyer,61,78,7,0,41,78.2051282051282,bowled,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+Shubman Gill,9,9,1,0,5,100.0,caught,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+V Kohli,0,4,0,0,4,0.0,lbw,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+Washington Sundar,12,14,0,0,3,85.71428571428571,caught,2025-10-23,Adelaide Oval,Adelaide,Lost,4913,India tour of Australia,Australia,A Zampa,Australia
+RG Sharma,121,125,13,3,60,96.8,Not Out,2025-10-25,Sydney Cricket Ground,Sydney,Won,4915,India tour of Australia,Australia,RG Sharma,Australia
+Shubman Gill,24,28,2,1,16,85.71428571428571,caught,2025-10-25,Sydney Cricket Ground,Sydney,Won,4915,India tour of Australia,Australia,RG Sharma,Australia
+V Kohli,74,82,7,0,34,90.2439024390244,Not Out,2025-10-25,Sydney Cricket Ground,Sydney,Won,4915,India tour of Australia,Australia,RG Sharma,Australia
+Arshdeep Singh,0,1,0,0,1,0.0,bowled,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4934,South Africa tour of India,South Africa,V Kohli,South Africa
+Harshit Rana,3,2,0,0,0,150.0,Not Out,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4934,South Africa tour of India,South Africa,V Kohli,South Africa
+KL Rahul,60,56,2,3,21,107.14285714285714,caught,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4934,South Africa tour of India,South Africa,V Kohli,South Africa
+Kuldeep Yadav,0,1,0,0,1,0.0,Not Out,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4934,South Africa tour of India,South Africa,V Kohli,South Africa
+RA Jadeja,32,22,2,1,4,145.45454545454547,caught,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4934,South Africa tour of India,South Africa,V Kohli,South Africa
+RD Gaikwad,8,14,0,0,6,57.14285714285714,caught,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4934,South Africa tour of India,South Africa,V Kohli,South Africa
+RG Sharma,57,51,5,3,24,111.76470588235294,lbw,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4934,South Africa tour of India,South Africa,V Kohli,South Africa
+V Kohli,135,120,11,7,58,112.5,Not Out,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4934,South Africa tour of India,South Africa,V Kohli,South Africa
+Washington Sundar,13,19,0,1,13,68.42105263157895,caught,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4934,South Africa tour of India,South Africa,V Kohli,South Africa
+YBK Jaiswal,18,16,2,1,10,112.5,caught,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,Won,4934,South Africa tour of India,South Africa,V Kohli,South Africa
+KL Rahul,66,43,6,2,11,153.48837209302326,Not Out,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Lost,4935,South Africa tour of India,South Africa,AK Markram,South Africa
+RA Jadeja,24,28,2,0,10,85.71428571428571,Not Out,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Lost,4935,South Africa tour of India,South Africa,AK Markram,South Africa
+RD Gaikwad,105,84,12,2,31,125.0,caught,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Lost,4935,South Africa tour of India,South Africa,AK Markram,South Africa
+RG Sharma,14,8,3,0,3,175.0,caught,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Lost,4935,South Africa tour of India,South Africa,AK Markram,South Africa
+V Kohli,102,96,7,2,34,106.25,caught,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Lost,4935,South Africa tour of India,South Africa,AK Markram,South Africa
+Washington Sundar,1,8,0,0,7,12.5,run out,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Lost,4935,South Africa tour of India,South Africa,AK Markram,South Africa
+YBK Jaiswal,22,39,2,1,30,56.41025641025641,caught,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Lost,4935,South Africa tour of India,South Africa,AK Markram,South Africa
+RG Sharma,75,74,7,3,37,101.35135135135135,caught,2025-12-06,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Won,4936,South Africa tour of India,India,YBK Jaiswal,South Africa
+V Kohli,65,45,6,3,15,144.44444444444443,Not Out,2025-12-06,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Won,4936,South Africa tour of India,India,YBK Jaiswal,South Africa
+YBK Jaiswal,116,124,12,2,55,93.54838709677419,Not Out,2025-12-06,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Won,4936,South Africa tour of India,India,YBK Jaiswal,South Africa
+Harshit Rana,29,23,2,1,9,126.08695652173914,caught,2026-01-11,"Kotambi Stadium, Vadodara",Vadodara,Won,4937,New Zealand tour of India,India,V Kohli,New Zealand
+KL Rahul,29,21,2,1,4,138.0952380952381,Not Out,2026-01-11,"Kotambi Stadium, Vadodara",Vadodara,Won,4937,New Zealand tour of India,India,V Kohli,New Zealand
+RA Jadeja,4,6,0,0,4,66.66666666666666,caught,2026-01-11,"Kotambi Stadium, Vadodara",Vadodara,Won,4937,New Zealand tour of India,India,V Kohli,New Zealand
+RG Sharma,26,29,3,2,22,89.65517241379311,caught,2026-01-11,"Kotambi Stadium, Vadodara",Vadodara,Won,4937,New Zealand tour of India,India,V Kohli,New Zealand
+SS Iyer,49,47,4,1,16,104.25531914893618,bowled,2026-01-11,"Kotambi Stadium, Vadodara",Vadodara,Won,4937,New Zealand tour of India,India,V Kohli,New Zealand
+Shubman Gill,56,71,3,2,35,78.87323943661971,caught,2026-01-11,"Kotambi Stadium, Vadodara",Vadodara,Won,4937,New Zealand tour of India,India,V Kohli,New Zealand
+V Kohli,93,94,8,1,35,98.93617021276596,caught,2026-01-11,"Kotambi Stadium, Vadodara",Vadodara,Won,4937,New Zealand tour of India,India,V Kohli,New Zealand
+Washington Sundar,7,7,0,0,0,100.0,Not Out,2026-01-11,"Kotambi Stadium, Vadodara",Vadodara,Won,4937,New Zealand tour of India,India,V Kohli,New Zealand
+Harshit Rana,2,4,0,0,2,50.0,Not Out,2026-01-14,"Niranjan Shah Stadium, Rajkot",Rajkot,Lost,4938,New Zealand tour of India,New Zealand,DJ Mitchell,New Zealand
+KL Rahul,112,92,11,1,29,121.73913043478262,Not Out,2026-01-14,"Niranjan Shah Stadium, Rajkot",Rajkot,Lost,4938,New Zealand tour of India,New Zealand,DJ Mitchell,New Zealand
+Mohammed Siraj,2,4,0,0,2,50.0,Not Out,2026-01-14,"Niranjan Shah Stadium, Rajkot",Rajkot,Lost,4938,New Zealand tour of India,New Zealand,DJ Mitchell,New Zealand
+Nithish Kumar Reddy,20,21,0,1,7,95.23809523809523,Not Out,2026-01-14,"Niranjan Shah Stadium, Rajkot",Rajkot,Lost,4938,New Zealand tour of India,New Zealand,DJ Mitchell,New Zealand
+RA Jadeja,27,44,1,0,21,61.36363636363637,caught and bowled,2026-01-14,"Niranjan Shah Stadium, Rajkot",Rajkot,Lost,4938,New Zealand tour of India,New Zealand,DJ Mitchell,New Zealand
+RG Sharma,24,38,4,0,27,63.1578947368421,caught,2026-01-14,"Niranjan Shah Stadium, Rajkot",Rajkot,Lost,4938,New Zealand tour of India,New Zealand,DJ Mitchell,New Zealand
+SS Iyer,8,17,0,0,9,47.05882352941176,caught,2026-01-14,"Niranjan Shah Stadium, Rajkot",Rajkot,Lost,4938,New Zealand tour of India,New Zealand,DJ Mitchell,New Zealand
+Shubman Gill,56,53,9,1,32,105.66037735849056,caught,2026-01-14,"Niranjan Shah Stadium, Rajkot",Rajkot,Lost,4938,New Zealand tour of India,New Zealand,DJ Mitchell,New Zealand
+V Kohli,23,30,2,0,13,76.66666666666667,bowled,2026-01-14,"Niranjan Shah Stadium, Rajkot",Rajkot,Lost,4938,New Zealand tour of India,New Zealand,DJ Mitchell,New Zealand
+Arshdeep Singh,4,2,1,0,1,200.0,Not Out,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+Harshit Rana,52,45,4,4,26,115.55555555555554,caught,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+KL Rahul,1,6,0,0,5,16.666666666666664,caught,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+Kuldeep Yadav,5,3,1,0,1,166.66666666666669,run out,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+Mohammed Siraj,0,1,0,0,1,0.0,caught,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+Nithish Kumar Reddy,53,58,2,2,23,91.37931034482759,caught,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+RA Jadeja,12,16,0,0,5,75.0,caught,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+RG Sharma,11,13,2,0,9,84.61538461538461,caught,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+SS Iyer,3,10,0,0,7,30.0,caught,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+Shubman Gill,23,18,4,0,7,127.77777777777777,bowled,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+V Kohli,124,109,10,3,37,113.76146788990826,caught,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,Lost,4939,New Zealand tour of India,India,DJ Mitchell,New Zealand
+HH Pandya,11,8,0,1,2,137.5,Not Out,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+Ishan Kishan,0,1,0,0,1,0.0,caught,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+KL Rahul,97,116,8,2,58,83.62068965517241,Not Out,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+RG Sharma,0,6,0,0,6,0.0,lbw,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+SS Iyer,0,3,0,0,3,0.0,caught,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+V Kohli,85,116,6,0,56,73.27586206896551,caught,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Won,4662,ICC Cricket World Cup,Australia,KL Rahul,Australia
+KL Rahul,19,29,2,0,17,65.51724137931035,Not Out,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4669,ICC Cricket World Cup,India,JJ Bumrah,Pakistan
+RG Sharma,86,63,6,6,27,136.5079365079365,caught,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4669,ICC Cricket World Cup,India,JJ Bumrah,Pakistan
+SS Iyer,53,62,3,2,29,85.48387096774194,Not Out,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4669,ICC Cricket World Cup,India,JJ Bumrah,Pakistan
+Shubman Gill,16,11,4,0,7,145.45454545454547,caught,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4669,ICC Cricket World Cup,India,JJ Bumrah,Pakistan
+V Kohli,16,18,3,0,11,88.88888888888889,caught,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Won,4669,ICC Cricket World Cup,India,JJ Bumrah,Pakistan
+KL Rahul,34,34,3,1,14,100.0,Not Out,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Won,4674,ICC Cricket World Cup,Bangladesh,V Kohli,Bangladesh
+RG Sharma,48,40,7,2,24,120.0,caught,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Won,4674,ICC Cricket World Cup,Bangladesh,V Kohli,Bangladesh
+SS Iyer,19,25,2,0,13,76.0,caught,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Won,4674,ICC Cricket World Cup,Bangladesh,V Kohli,Bangladesh
+Shubman Gill,53,55,5,2,30,96.36363636363636,caught,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Won,4674,ICC Cricket World Cup,Bangladesh,V Kohli,Bangladesh
+V Kohli,103,98,6,4,38,105.10204081632652,Not Out,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Won,4674,ICC Cricket World Cup,Bangladesh,V Kohli,Bangladesh
+KL Rahul,27,35,3,0,18,77.14285714285715,lbw,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+Mohammed Shami,1,1,0,0,0,100.0,Not Out,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+RA Jadeja,39,45,3,1,21,86.66666666666667,Not Out,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+RG Sharma,46,40,4,4,27,114.99999999999999,bowled,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+SA Yadav,2,4,0,0,2,50.0,run out,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+SS Iyer,33,29,6,0,15,113.79310344827587,caught,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+Shubman Gill,26,31,5,0,20,83.87096774193549,caught,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+V Kohli,95,107,8,2,50,88.78504672897196,caught,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Won,4678,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+JJ Bumrah,16,25,1,0,15,64.0,run out,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+KL Rahul,39,58,3,0,31,67.24137931034483,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+Kuldeep Yadav,9,13,1,0,7,69.23076923076923,Not Out,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+Mohammed Shami,1,5,0,0,4,20.0,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+RA Jadeja,8,13,0,0,6,61.53846153846154,lbw,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+RG Sharma,87,101,10,3,62,86.13861386138613,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+SA Yadav,49,48,4,1,20,102.08333333333333,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+SS Iyer,4,16,0,0,12,25.0,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+Shubman Gill,9,13,1,0,9,69.23076923076923,bowled,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+V Kohli,0,9,0,0,9,0.0,caught,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Won,4686,ICC Cricket World Cup,England,RG Sharma,England
+JJ Bumrah,1,1,0,0,0,100.0,Not Out,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+KL Rahul,21,20,2,0,5,105.0,caught,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+Mohammed Shami,2,4,0,0,2,50.0,run out,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+RA Jadeja,35,25,1,1,4,140.0,run out,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+RG Sharma,4,2,1,0,1,200.0,bowled,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+SA Yadav,12,9,2,0,4,133.33333333333331,caught,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+SS Iyer,82,57,3,6,19,143.859649122807,Not Out,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+Shubman Gill,92,94,11,2,49,97.87234042553192,caught,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+V Kohli,88,95,11,0,45,92.63157894736842,caught,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Won,4690,ICC Cricket World Cup,Sri Lanka,Mohammed Shami,Sri Lanka
+KL Rahul,8,17,0,0,9,47.05882352941176,caught,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+RA Jadeja,29,16,3,1,3,181.25,Not Out,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+RG Sharma,40,25,6,2,13,160.0,caught,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+SA Yadav,22,13,5,0,6,169.23076923076923,caught,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+SS Iyer,77,88,7,2,46,87.5,caught,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+Shubman Gill,23,24,4,1,18,95.83333333333334,Not Out,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+V Kohli,101,122,10,0,57,82.78688524590164,Not Out,2023-11-05,"Eden Gardens, Kolkata",Kolkata,Won,4694,ICC Cricket World Cup,India,V Kohli,South Africa
+KL Rahul,102,66,11,4,18,154.54545454545453,caught,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+RG Sharma,61,55,8,2,29,110.9090909090909,caught,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+SA Yadav,2,1,0,0,0,200.0,Not Out,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+SS Iyer,128,98,10,5,29,130.6122448979592,Not Out,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+Shubman Gill,51,33,3,4,15,154.54545454545453,caught,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+V Kohli,51,57,5,1,27,89.47368421052632,bowled,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Won,4702,ICC Cricket World Cup,India,SS Iyer,Netherlands
+KL Rahul,39,20,5,2,7,195.0,Not Out,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+RG Sharma,47,30,4,4,17,156.66666666666666,caught,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+SA Yadav,1,2,0,0,1,50.0,caught,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+SS Iyer,105,72,4,8,20,145.83333333333331,caught,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+Shubman Gill,80,66,8,3,29,121.21212121212122,Not Out,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+V Kohli,117,113,9,2,43,103.53982300884957,caught,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,Won,4703,ICC Cricket World Cup,India,Mohammed Shami,New Zealand
+JJ Bumrah,1,3,0,0,2,33.33333333333333,lbw,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+KL Rahul,66,108,1,0,50,61.111111111111114,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+Kuldeep Yadav,10,19,0,0,10,52.63157894736842,run out,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+Mohammed Shami,6,10,1,0,7,60.0,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+Mohammed Siraj,9,8,1,0,2,112.5,Not Out,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+RA Jadeja,9,22,0,0,13,40.909090909090914,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+RG Sharma,47,31,4,3,13,151.61290322580646,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+SA Yadav,18,29,1,0,15,62.06896551724138,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+SS Iyer,4,3,1,0,2,133.33333333333331,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+Shubman Gill,4,7,0,0,4,57.14285714285714,caught,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia
+V Kohli,54,63,4,0,23,85.71428571428571,bowled,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Lost,4705,ICC Cricket World Cup,Australia,TM Head,Australia

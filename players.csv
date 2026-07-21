@@ -1,0 +1,56 @@
+ID,Player,Role,Handed,Batting Role,Bowling Type,Playing Style,DOB,ODI Status,Image,Player_of_match
+0,AR Patel,All-rounder,Left,Lower-middle order,Slow left-arm orthodox,Defensive Bowling All-rounder,20-01-1994,Active,axar.png,1
+1,Arshdeep Singh,Bowler,Left,Tailender,Left-arm medium-fast,Left-arm Swing Bowler,05-02-1999,Active,arshdeep.png,0
+2,Avesh Khan,Bowler,Right,Tailender,Right-arm fast-medium,Hit-the-deck Pace Bowler,17-06-1996,Active,avesh.png,0
+3,B Kumar,Bowler,Right,Tailender,Right-arm medium-fast,Conventional Swing Bowler,05-02-1990,Active,bhuvi.png,0
+4,B Sai Sudharsan,Batter,Left,Top order,Legbreak,Technically Sound Top-order Anchor,15-10-2001,Active,b_sai.png,0
+5,C Sakariya,Bowler,Left,Tailender,Left-arm fast-medium,Tactical Left-arm Medium Pacer,28-02-1998,Active,b_sakariya.png,0
+6,CV Varun,Bowler,Right,Tailender,Right-arm legbreak (Mystery spinner),Mystery Spinner,29-08-1991,Active,c_varun.png,0
+7,DJ Hooda,All-rounder,Right,Middle order,Right-arm offbreak,Aggressive Middle-order Batter,19-04-1995,Active,dj_hooda.png,0
+8,DL Chahar,Bowler,Right,Lower order,Right-arm medium-fast,Powerplay Swing Bowler,07-08-1992,Active,dl_chahar.png,1
+9,HH Pandya,All-rounder,Right,Finisher,Right-arm fast-medium,Hard-hitting Pace All-rounder,11-10-1993,Active,hardik.png,0
+10,Harshit Rana,Bowler,Right,Tailender,Right-arm fast-medium,Aggressive Fast-medium Bowler,22-12-2001,Active,rana.png,0
+11,Ishan Kishan,Wicketkeeper Batter,Left,Wicketkeeper Batter,,Explosive Wicketkeeper Opener,18-07-1998,Active,ishan.png,1
+12,J Yadav,Bowler,Right,Lower order,Right-arm offbreak,Defensive Off-spinner,20-01-1990,Active,j_yadav.png,0
+13,JD Unadkat,Bowler,Right,Tailender,Left-arm medium-fast,Experienced Left-arm Seamer,18-10-1991,Active,jd.png,0
+14,JJ Bumrah,Bowler,Right,Tailender,Right-arm fast,Elite Express Pace Bowler,06-12-1993,Active,jasprit.png,0
+15,K Gowtham,Bowler,Right,Lower order,Right-arm offbreak,Attacking Off-spin All-rounder,20-10-1988,Active,k_gowtham.png,0
+16,KH Pandya,All-rounder,Left,Lower-middle order,Slow left-arm orthodox,Utility Spin All-rounder,24-03-1991,Active,krunal.png,0
+17,KL Rahul,Wicketkeeper Batter,Right,Wicketkeeper Batter,,Versatile Technical Anchor,18-04-1992,Active,rahul.png,2
+18,KR Sen,Bowler,Right,Tailender,Right-arm fast,Out-and-out Fast Bowler,22-10-1996,Active,kr_sen.png,0
+19,Kuldeep Yadav,Bowler,Left,Tailender,Left-arm unorthodox (Chinaman),Attacking Left-arm Wrist Spinner,14-12-1994,Active,kuldeep.png,1
+20,M Prasidh Krishna,Bowler,Right,Tailender,Right-arm fast-medium,Extra Bounce Pace Bowler,19-02-1996,Active,p_krishna.png,1
+21,MK Pandey,Batter,Right,Middle order,Right-arm medium,Calculative Middle-order Anchor,10-09-1989,Active,manish.png,0
+22,Mohammed Shami,Bowler,Right,Tailender,Right-arm fast-medium,Seam-presentation Specialist,03-09-1990,Active,shami.png,4
+23,Mohammed Siraj,Bowler,Right,Tailender,Right-arm fast,Aggressive Seam & Swing Bowler,13-03-1994,Active,siraj.png,0
+24,Mukesh Kumar,Bowler,Right,Tailender,Right-arm fast-medium,Line-and-length Bowler,12-10-1993,Active,mukesh.png,0
+25,N Rana,Batter,Left,Middle order,Right-arm offbreak / Legbreak,Attacking Middle-order Spin-hitter,27-12-1993,Active,n_rana.png,0
+26,Navdeep Saini,Bowler,Right,Tailender,Right-arm fast,Express Hit-the-deck Bowler,23-11-1992,Active,n_saini.png,0
+27,Nithish Kumar Reddy,All-rounder,Right,Finisher,Right-arm medium-fast,Dynamic Seam-bowling Finisher,26-05-2003,Active,nithish.png,0
+28,PP Shaw,Batter,Right,Opener,,Ultra-aggressive Powerplay Opener,09-11-1999,Active,shaw.png,1
+29,R Ashwin,All-rounder,Right,Lower order,Right-arm offbreak,Tactical Spin Bowling Legend,17-09-1986,Active,r_ashwin.png,0
+30,R Parag,All-rounder,Right,Finisher,Right-arm offbreak / Legbreak,Aggressive Middle-order Finisher,10-11-2001,Active,r_parag.png,0
+31,RA Jadeja,All-rounder,Left,Finisher,Slow left-arm orthodox,World-class Three-dimensional All-rounder,06-12-1988,Active,jadeja.png,1
+32,RD Chahar,Bowler,Right,Tailender,Legbreak,Attacking Leg-spinner,04-08-1999,Active,r_chahar.png,0
+33,RD Gaikwad,Batter,Right,Opener / Top order,Right-arm offbreak,Elegant Top-order Anchor,31-01-1997,Active,ruturaj.png,0
+34,RG Sharma,Batter,Right,Opener,Right-arm offbreak,Aggressive Powerplay Opener,30-04-1987,Active,rohit.png,7
+35,RK Singh,Batter,Left,Finisher,Right-arm offbreak,Clutch Death-overs Finisher,11-10-1997,Active,rinku.png,0
+36,RM Patidar,Batter,Right,Middle order,,Solid Spin-playing Middle-order Batter,01-06-1993,Active,r_patidar.png,0
+37,RR Pant,Wicketkeeper Batter,Left,Wicketkeeper Batter,,Fearless X-factor Wicketkeeper Batter,04-10-1997,Active,pant.png,1
+38,Ravi Bishnoi,Bowler,Right,Tailender,Legbreak,Rapid-pace Leg-spinner,05-09-2000,Active,ravi.png,0
+39,S Dhawan,Batter,Left,Opener,Right-arm offbreak,Prolific Top-order Opener,05-12-1985,Retired,dhawan.png,2
+40,S Dube,All-rounder,Left,Finisher,Right-arm medium,Power-hitting Spin Destroyer,26-06-1993,Active,dube.png,0
+41,SA Yadav,Batter,Right,Middle order,Right-arm medium / Offbreak,360-degree Innovative Batter,14-09-1990,Active,surya.png,0
+42,SN Thakur,Bowler,Right,Lower order,Right-arm medium-fast,Partnership-breaking Bowler,16-10-1991,Active,thakur.png,1
+43,SS Iyer,Batter,Right,Middle order,Legbreak,Proactive Middle-order Spin Player,06-12-1994,Active,iyer.png,5
+44,SV Samson,Wicketkeeper Batter,Right,Wicketkeeper Batter,,Flamboyant Stroke-maker,11-11-1994,Active,samson.png,2
+45,Shahbaz Ahmed,All-rounder,Left,Lower-middle order,Slow left-arm orthodox,Utility Spin-bowling All-rounder,11-12-1994,Active,shahabaz.png,0
+46,Shubman Gill,Batter,Right,Opener,Right-arm offbreak,Classy All-format Anchor,08-09-1999,Active,gill.png,8
+47,T Natarajan,Bowler,Left,Tailender,Left-arm fast-medium,Death-overs Yorker Specialist,04-04-1991,Active,t_nataraj.png,0
+48,Tilak Varma,Batter,Left,Middle order,Right-arm offbreak,Reliable Left-handed Middle-order Batter,08-11-2002,Active,t_varma.png,0
+49,Umran Malik,Bowler,Right,Tailender,Right-arm fast,Raw Express Pace Bowler,22-11-1999,Active,u_malik.png,0
+50,V Kohli,Batter,Right,Top order,Right-arm medium,Master Run-chaser & Anchor,05-11-1988,Active,virat.png,13
+51,VR Iyer,All-rounder,Left,Finisher,Right-arm medium,Dynamic Left-handed Utility All-rounder,25-12-1994,Active,vr_iyer.png,0
+52,Washington Sundar,All-rounder,Left,Finisher,Right-arm offbreak,Economical Powerplay Off-spinner,05-10-1999,Active,washi.png,0
+53,YBK Jaiswal,Batter,Left,Opener,Legbreak,Fearless Attacking Opener,28-12-2001,Active,jashwal.png,1
+54,YS Chahal,Bowler,Right,Tailender,Legbreak,Crafty Flight-and-turn Leg-spinner,23-07-1990,Active,chahal.png,0

@@ -1,0 +1,95 @@
+Match_ID,Date,Venue,City,Opponent,Player_of_match,Event,Result,Toss_Winner
+4281,2021-03-23,Maharashtra Cricket Association Stadium,Pune,England,S Dhawan,England tour of India,Won,England
+4283,2021-03-26,Maharashtra Cricket Association Stadium,Pune,England,JM Bairstow,England tour of India,Lost,England
+4284,2021-03-28,Maharashtra Cricket Association Stadium,Pune,England,SM Curran,England tour of India,Won,England
+4307,2021-07-18,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,PP Shaw,India tour of Sri Lanka,Won,Sri Lanka
+4309,2021-07-20,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,DL Chahar,India tour of Sri Lanka,Won,Sri Lanka
+4312,2021-07-23,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,WIA Fernando,India tour of Sri Lanka,Lost,India
+4424,2022-07-12,"Kennington Oval, London",London,England,JJ Bumrah,India tour of England,Won,India
+4428,2022-07-14,"Lord's, London",London,England,RJW Topley,India tour of England,Lost,India
+4433,2022-07-17,"Old Trafford, Manchester",Manchester,England,RR Pant,India tour of England,Won,India
+4344,2022-01-19,"Boland Park, Paarl",Paarl,South Africa,HE van der Dussen,India tour of South Africa,Lost,South Africa
+4346,2022-01-21,"Boland Park, Paarl",Paarl,South Africa,Q de Kock,India tour of South Africa,Lost,India
+4349,2022-01-23,"Newlands, Cape Town",Cape Town,South Africa,Q de Kock,India tour of South Africa,Lost,India
+4353,2022-02-06,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,West Indies,YS Chahal,West Indies tour of India,Won,India
+4355,2022-02-09,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,West Indies,M Prasidh Krishna,West Indies tour of India,Won,West Indies
+4356,2022-02-11,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,West Indies,SS Iyer,West Indies tour of India,Won,India
+4436,2022-07-22,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,West Indies,S Dhawan,India tour of West Indies,Won,West Indies
+4438,2022-07-24,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,West Indies,AR Patel,India tour of West Indies,Won,West Indies
+4439,2022-07-27,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,West Indies,Shubman Gill,India tour of West Indies,Won,India
+4483,2022-11-25,"Eden Park, Auckland",Auckland,New Zealand,TWM Latham,India tour of New Zealand,Lost,New Zealand
+4487,2022-11-27,"Seddon Park, Hamilton",Hamilton,New Zealand,,India tour of New Zealand,no result,New Zealand
+4489,2022-11-30,"Hagley Oval, Christchurch",Christchurch,New Zealand,,India tour of New Zealand,no result,New Zealand
+4451,2022-08-18,Harare Sports Club,Harare,Zimbabwe,DL Chahar,India tour of Zimbabwe,Won,India
+4454,2022-08-20,Harare Sports Club,Harare,Zimbabwe,SV Samson,India tour of Zimbabwe,Won,India
+4457,2022-08-22,Harare Sports Club,Harare,Zimbabwe,Shubman Gill,India tour of Zimbabwe,Won,India
+4470,2022-10-06,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,South Africa,H Klaasen,South Africa tour of India,Lost,India
+4471,2022-10-09,"JSCA International Stadium Complex, Ranchi",Ranchi,South Africa,SS Iyer,South Africa tour of India,Won,South Africa
+4472,2022-10-11,"Arun Jaitley Stadium, Delhi",Delhi,South Africa,Kuldeep Yadav,South Africa tour of India,Won,India
+4493,2022-12-04,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,Mehedi Hasan Miraz,India tour of Bangladesh,Lost,Bangladesh
+4496,2022-12-07,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,Mehedi Hasan Miraz,India tour of Bangladesh,Lost,Bangladesh
+4499,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Bangladesh,Ishan Kishan,India tour of Bangladesh,Won,Bangladesh
+4501,2023-01-10,"Barsapara Cricket Stadium, Guwahati",Guwahati,Sri Lanka,V Kohli,Sri Lanka tour of India,Won,Sri Lanka
+4503,2023-01-12,"Eden Gardens, Kolkata",Kolkata,Sri Lanka,Kuldeep Yadav,Sri Lanka tour of India,Won,Sri Lanka
+4505,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,Sri Lanka,V Kohli,Sri Lanka tour of India,Won,India
+4507,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,New Zealand,Shubman Gill,New Zealand tour of India,Won,India
+4509,2023-01-21,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,New Zealand,Mohammed Shami,New Zealand tour of India,Won,India
+4511,2023-01-24,"Holkar Cricket Stadium, Indore",Indore,New Zealand,SN Thakur,New Zealand tour of India,Won,New Zealand
+4538,2023-03-17,"Wankhede Stadium, Mumbai",Mumbai,Australia,RA Jadeja,Australia tour of India,Won,India
+4541,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Australia,MA Starc,Australia tour of India,Lost,Australia
+4545,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Australia,A Zampa,Australia tour of India,Lost,Australia
+4622,2023-07-27,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies,Kuldeep Yadav,India tour of West Indies,Won,India
+4623,2023-07-29,"Kensington Oval, Bridgetown, Barbados",Bridgetown,West Indies,SD Hope,India tour of West Indies and United States of America,Lost,West Indies
+4624,2023-08-01,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,West Indies,Shubman Gill,India tour of West Indies and United States of America,Won,West Indies
+4662,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Australia,KL Rahul,ICC Cricket World Cup,Won,Australia
+4669,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Pakistan,JJ Bumrah,ICC Cricket World Cup,Won,India
+4674,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Bangladesh,V Kohli,ICC Cricket World Cup,Won,Bangladesh
+4678,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,New Zealand,Mohammed Shami,ICC Cricket World Cup,Won,India
+4686,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,England,RG Sharma,ICC Cricket World Cup,Won,England
+4690,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Sri Lanka,Mohammed Shami,ICC Cricket World Cup,Won,Sri Lanka
+4694,2023-11-05,"Eden Gardens, Kolkata",Kolkata,South Africa,V Kohli,ICC Cricket World Cup,Won,India
+4702,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Netherlands,SS Iyer,ICC Cricket World Cup,Won,India
+4703,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,New Zealand,Mohammed Shami,ICC Cricket World Cup,Won,India
+4705,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Australia,TM Head,ICC Cricket World Cup,Lost,Australia
+4713,2023-12-17,"The Wanderers Stadium, Johannesburg",Johannesburg,South Africa,Arshdeep Singh,India tour of South Africa,Won,South Africa
+4714,2023-12-19,"St George's Park, Gqeberha",Gqeberha,South Africa,T de Zorzi,India tour of South Africa,Lost,South Africa
+4716,2023-12-21,"Boland Park, Paarl",Paarl,South Africa,SV Samson,India tour of South Africa,Won,South Africa
+4630,2023-09-02,Pallekele International Cricket Stadium,Kandy,Pakistan,,Asia Cup,no result,India
+4632,2023-09-04,Pallekele International Cricket Stadium,Kandy,Nepal,RG Sharma,Asia Cup,Won,India
+4639,2023-09-10,"R Premadasa Stadium, Colombo",Colombo,Pakistan,V Kohli,Asia Cup,Won,Pakistan
+4641,2023-09-12,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,DN Wellalage,Asia Cup,Won,India
+4645,2023-09-15,"R Premadasa Stadium, Colombo",Colombo,Bangladesh,Shakib Al Hasan,Asia Cup,Lost,India
+4649,2023-09-17,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,Mohammed Siraj,Asia Cup,Won,Sri Lanka
+4651,2023-09-22,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Australia,Mohammed Shami,Australia tour of India,Won,India
+4654,2023-09-24,"Holkar Cricket Stadium, Indore",Indore,Australia,SS Iyer,Australia tour of India,Won,Australia
+4657,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Australia,GJ Maxwell,Australia tour of India,Lost,Australia
+4825,2025-02-06,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,England,Shubman Gill,England tour of India,Won,England
+4828,2025-02-09,"Barabati Stadium, Cuttack",Cuttack,England,RG Sharma,England tour of India,Won,England
+4833,2025-02-12,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,England,Shubman Gill,England tour of India,Won,England
+4752,2024-08-02,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,DN Wellalage,India tour of Sri Lanka,tie,Sri Lanka
+4753,2024-08-04,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,JDF Vandersay,India tour of Sri Lanka,Lost,Sri Lanka
+4754,2024-08-07,"R Premadasa Stadium, Colombo",Colombo,Sri Lanka,WIA Fernando,India tour of Sri Lanka,Lost,Sri Lanka
+4844,2025-02-20,Dubai International Cricket Stadium,Dubai,Bangladesh,Shubman Gill,ICC Champions Trophy,Won,Bangladesh
+4847,2025-02-23,Dubai International Cricket Stadium,Dubai,Pakistan,V Kohli,ICC Champions Trophy,Won,Pakistan
+4852,2025-03-02,Dubai International Cricket Stadium,Dubai,New Zealand,CV Varun,ICC Champions Trophy,Won,New Zealand
+4853,2025-03-04,Dubai International Cricket Stadium,Dubai,Australia,V Kohli,ICC Champions Trophy,Won,Australia
+4858,2025-03-09,Dubai International Cricket Stadium,Dubai,New Zealand,RG Sharma,ICC Champions Trophy,Won,New Zealand
+4911,2025-10-19,Perth Stadium,Perth,Australia,MR Marsh,India tour of Australia,Lost,Australia
+4913,2025-10-23,Adelaide Oval,Adelaide,Australia,A Zampa,India tour of Australia,Lost,Australia
+4915,2025-10-25,Sydney Cricket Ground,Sydney,Australia,RG Sharma,India tour of Australia,Won,Australia
+4934,2025-11-30,"JSCA International Stadium Complex, Ranchi",Ranchi,South Africa,V Kohli,South Africa tour of India,Won,South Africa
+4935,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,South Africa,AK Markram,South Africa tour of India,Lost,South Africa
+4936,2025-12-06,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,South Africa,YBK Jaiswal,South Africa tour of India,Won,India
+4937,2026-01-11,"Kotambi Stadium, Vadodara",Vadodara,New Zealand,V Kohli,New Zealand tour of India,Won,India
+4938,2026-01-14,"Niranjan Shah Stadium, Rajkot",Rajkot,New Zealand,DJ Mitchell,New Zealand tour of India,Lost,New Zealand
+4939,2026-01-18,"Holkar Cricket Stadium, Indore",Indore,New Zealand,DJ Mitchell,New Zealand tour of India,Lost,India
+4662,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Australia,KL Rahul,ICC Cricket World Cup,Won,Australia
+4669,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Pakistan,JJ Bumrah,ICC Cricket World Cup,Won,India
+4674,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Bangladesh,V Kohli,ICC Cricket World Cup,Won,Bangladesh
+4678,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,New Zealand,Mohammed Shami,ICC Cricket World Cup,Won,India
+4686,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,England,RG Sharma,ICC Cricket World Cup,Won,England
+4690,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,Sri Lanka,Mohammed Shami,ICC Cricket World Cup,Won,Sri Lanka
+4694,2023-11-05,"Eden Gardens, Kolkata",Kolkata,South Africa,V Kohli,ICC Cricket World Cup,Won,India
+4702,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Netherlands,SS Iyer,ICC Cricket World Cup,Won,India
+4703,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,New Zealand,Mohammed Shami,ICC Cricket World Cup,Won,India
+4705,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Australia,TM Head,ICC Cricket World Cup,Lost,Australia

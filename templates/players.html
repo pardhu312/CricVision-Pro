@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Players</title>
+        <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+    </head>
+    <body id="main">
+        <section class="all-indian-players">
+            <h2>👥 ALL PLAYERS</h2>
+            <input type="text" id="search" placeholder="🔍 Search Players"> 
+        </section>
+        <div class="players-container">
+            {% for player in players %}
+            <div class="all-players" data-player="{{player.Player}}">
+                <div class="players">
+                    <h3>{{player.Player}}</h3>
+                    <img src="{{url_for('static',filename='images/'+player.Image)}}" alt="player.Player">            
+                </div>
+                <div class="view">
+                    <p><strong>Role:</strong>{{player.Role}}</p>
+                    <p><strong>Handed:</strong>{{player.Handed}}</p>
+                    <p><strong>Playing Style:</strong>{{player["Playing Style"]}}</p>
+                    <a href="{{url_for('players_profile',player_name=player.Player)}}"><button>view Profile</button></a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>    
+    <hr>
+    <a href="{{url_for('home')}}" class="Back"><button>⬅️ Back</button></a>    
+    <footer>
+        <p>🏏 CricVision Pro  Built with Flask + HTML + CSS @ 2026 All Rights Reserved </p>
+    </footer>    
+    <script src="{{url_for('static', filename='script.js')}}"></script>
+    </body>
+</html>

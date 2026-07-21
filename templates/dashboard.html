@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dashborad</title>
+        <link rel="stylesheet" href="{{url_for('static' , filename='style.css')}}">
+    </head>
+    <body id="main">
+        <div class="dashboard">
+            <h1>Cricket Dashborad</h1>
+            <section class="stats">
+
+                <div class="stats-card">
+                    <h1>👤</h1>
+                    <h2>{{players|length}}</h2>
+                    <p>Players</p>
+                </div>
+                <div class="stats-card">
+                    <h1>🏏</h1>
+                    <h2>{{matches|length}}</h2>
+                    <p>Matches</p>
+                </div> 
+                <div class="stats-card">
+                    <h1>👥</h1>
+                    <h2>{{opponents|length}}</h2>
+                    <p>Teams</p>
+                </div>    
+            </section>        
+            <hr>
+            <div class="overview">
+                <div class="top-batter">
+                    <h2>📈Top Batter</h2>    
+                    <h4><strong>Batter:</strong>{{top_batter.Player}}</h4>
+                    <h4><strong>Runs:</strong>{{top_batter.Runs}}</h4>
+                    <h4><strong>Average:</strong>{{top_batter.Batting_Avg}}</h4>
+                    <h4><strong>100s:</strong>{{top_batter.Hundreds}}</h4>
+                    <h4><strong>50s:</strong>{{top_batter.Fifties}}</h4>
+                    <h4><strong>Boundaries:</strong>{{top_batter.Boundaries}}</h4>
+                    <h4><strong>No of Innings:</strong>{{top_batter.No_of_Innings_bat}}</h4>
+                    <h4><strong>No of NotOuts:</strong>{{top_batter.No_of_NotOuts}}</h4>
+                </div>
+                <div class="top-bowler">
+                    <h2>🧿Top Bowler</h2>
+                    <h4><strong>Bowler:</strong>{{top_bowler.Player}}</h4>
+                    <h4><strong>Wickets:</strong>{{top_bowler.Wickets}}</h4>
+                    <h4><strong>Economy:</strong>{{top_bowler.Economy}}</h4>
+                    <h4><strong>Maidens:</strong>{{top_bowler.Maidens}}</h4>
+                    <h4><strong>Five_Wts:</strong>{{top_bowler.Five_Wts}}</h4>
+                    <h4><strong>No of Innings:</strong>{{top_bowler.No_of_Innings_ball}}</h4>
+                    <h4><strong>Average:</strong>{{top_bowler.Bowling_Avg}}</h4>
+                </div> 
+                <div class="top-all_rounder">
+                    <h2>⭐Top AllRounder</h2>
+                    <h4><strong>AllRounder:</strong>{{top_all_rounder.Player}}</h4>
+                    <h4><strong>Runs:</strong>{{top_all_rounder.Runs}}</h4>
+                    <h4><strong>Wickets:</strong>{{top_all_rounder.Wickets}}</h4>
+                    <h4><strong>Batting Avg</strong>{{top_all_rounder.Batting_Avg}}</h4>
+                    <h4><strong>Boundaries:</strong>{{top_all_rounder.Boundaries}}</h4>
+                    <h4><strong>No of Innings:</strong>{{top_all_rounder.No_of_Innings_ball}}</h4>
+                    <h4><strong>Economy:</strong>{{top_all_rounder.Economy}}</h4>
+                </div>
+            </div>
+                <section class="graph-section">
+                    <div class="graph-runs">
+                        {{graph_runs|safe}}
+                    </div>
+                    <div class="graph-wickets">
+                        {{graph_wickets|safe}}
+                    </div>
+                    <div class="top-runs-graph">    
+                        {{bar_graph|safe}}
+                    </div>
+                    <div class="top-wickets-graph">
+                        {{bar_graph2|safe}}
+                    </div>
+                    <div class="pie-chart">
+                        {{pie_chart|safe}}
+                    </div>
+                    <div class="wins-graph">
+                        {{bar_graph3|safe}}
+                    </div> 
+                    <div class="venue-wins">
+                        {{bar_graph4|safe}}
+                    </div>                   
+                </section>    
+    <hr>
+    <a href="{{url_for('home')}}"  class="Back"><button>⬅️ Back</button></a>
+    <hr>
+    <footer> 🏏 CricVision Pro  Built with Flask + HTML + CSS @ 2026 All Rights Reserved</footer>            
+    </body>   
+</html>
