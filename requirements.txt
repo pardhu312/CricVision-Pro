@@ -1,8 +1,4 @@
 Flask==3.1.1
-<<<<<<< HEAD
 pandas==2.3.1
-=======
-Pandas==2.3.1
->>>>>>> 70fa2df (Add SEO improvements and robots.txt)
 plotly==6.2.0
 gunicorn
