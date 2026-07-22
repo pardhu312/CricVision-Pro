@@ -3,7 +3,7 @@
     <head>
         <title>CricVision Pro</title>
         <meta charset="UTF-8">
-
+          
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <meta name="description"
@@ -12,8 +12,21 @@
         <meta name="author"
             content="Kurella Pardhu">
         <meta name="keywords"
-            content="Cricket Analytics, ODI Statistics, Flask Project, Python Dashboard, Pandas, Plotly, CricVision Pro, Cricket Data Analysis">        
+            content="Cricket Analytics, ODI Statistics, Flask Project, Python Dashboard, Pandas, Plotly, CricVision Pro, Cricket Data Analysis">     
+        <meta property="og:title" content="CricVision Pro">
+
+        <meta property="og:description"
+            content="Interactive Cricket Analytics Platform">
+
+        <meta property="og:type" content="website">
+
+        <meta property="og:image"
+            content="{{ url_for('static', filename='images/logo.png', _external=True) }}">       
         <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
+        <link rel="icon"
+        href="{{ url_for('static', filename='images/logo.png') }}"
+        type="image/png"
+        sizes="32x32">
     </head>
     <body id="main">
         <nav class="navbar">

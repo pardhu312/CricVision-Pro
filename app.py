@@ -1,4 +1,4 @@
-from flask import Flask,render_template
+from flask import Flask,render_template,send_from_directory
 import pandas as pd
 import plotly.express as px
 app=Flask(__name__)
@@ -460,5 +460,8 @@ def dashboard():
 @app.route("/about")
 def about():
     return render_template("about.html")
+@app.route("/robots.txt")
+def robots():
+    return send_from_directory("static", "robots.txt")       
 if __name__ == "__main__":
-    app.run()    
+    app.run() 
