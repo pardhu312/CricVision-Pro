@@ -233,7 +233,7 @@ def dashboard():
     all_rounder_bowling=bowling_df[bowling_df["Player"].isin(all_rounder["Player"])]
     all_rounder_performace=pd.merge(all_rounder_batting,all_rounder_bowling,how="left",on="Player")
     all_rounder_performace=all_rounder_performace.merge(players_info[["Player","Player_of_match"]],on="Player",how="left")
-    all_rounder_performace["Score"]=(all_rounder_performace["Runs"]*25)+(all_rounder_performace["Batting_Avg"]*20)+(all_rounder_performace["strike_rate"]*10)+(all_rounder_performace["Wickets"]*25)-(all_rounder_performace["Economy"]*5)+(players_info["Player_of_match"]*5) 
+    all_rounder_performace["Score"]=(all_rounder_performace["Runs"]*25)+(all_rounder_performace["Batting_Avg"]*20)+(all_rounder_performace["strike_rate"]*10)+(all_rounder_performace["Wickets"]*25)-(all_rounder_performace["Economy"]*5)+(all_rounder_performace["Player_of_match"]*5) 
     all_rounder_performace["rank"]=all_rounder_performace["Score"].rank(method="dense",ascending=False).astype(int)
     top_all_rounder=all_rounder_performace[all_rounder_performace["rank"]==1].iloc[0].to_dict()
     opponents=match_data["Opponent"].drop_duplicates()    
