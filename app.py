@@ -32,16 +32,16 @@ def players_profile(player_name):
     batters_run_against=(batting_df.groupby(["Player","Opponent"],as_index=False).agg(Runs=("Runs","sum"),No_of_Innings=("Runs","count"),No_of_NotOuts=("status",lambda x:(x=="Not Out").sum())).reset_index())
     batters_run_against["Batting_Avg"]=(batters_run_against["Runs"]/(batters_run_against["No_of_Innings"]-batters_run_against["No_of_NotOuts"])).round(2)
     bowlers_wickets_against=(bowling_df.groupby(["Player","Opponent"],as_index=False)["Wickets"].sum().reset_index())
-    batter_run_against=batters_run_against[batters_run_against["Player"]==player_name].to_dict()
-    bowler_wickets_against=bowlers_wickets_against[bowlers_wickets_against["Player"]==player_name].to_dict()
+    batter_run_against=batters_run_against[batters_run_against["Player"]==player_name]
+    bowler_wickets_against=bowlers_wickets_against[bowlers_wickets_against["Player"]==player_name]
     batting_df["Date"]=pd.to_datetime(batting_df["Date"])
     batting_df["year"]=batting_df["Date"].dt.year
     year_runs=batting_df.groupby(["year","Player"]).agg(Runs=("Runs","sum")).reset_index()
-    year_runs=year_runs[year_runs["Player"]==player_name].to_dict()
+    year_runs=year_runs[year_runs["Player"]==player_name]
     bowling_df["Date"]=pd.to_datetime(bowling_df["Date"])
     bowling_df["year"]=bowling_df["Date"].dt.year
     year_wickets=bowling_df.groupby(["year","Player"]).agg(Wickets=("Wickets","sum")).reset_index()        
-    year_wickets=year_wickets[year_wickets["Player"]==player_name].to_dict()
+    year_wickets=year_wickets[year_wickets["Player"]==player_name]
     bar_graph=None
     batting_stats=None
     avg_graph=None
